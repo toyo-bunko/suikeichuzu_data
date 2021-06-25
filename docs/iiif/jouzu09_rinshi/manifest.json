@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu09_rinshi/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "臨淄城図",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "臨淄城図"
+        },
+        {
+            "label": "Identifier",
+            "value": "jouzu09_rinshi"
+        }
+    ],
+    "related": {
+        "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu09_rinshi",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://app.toyobunko-lab.jp/api/items/935",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 3075,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/canvas/p1",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu09_rinshi.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3075,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu09_rinshi.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2257
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/17fb8c03b92cd94f338cda6b0036066e8cbfd0a1.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 2257
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://app.toyobunko-lab.jp/files/medium/17fb8c03b92cd94f338cda6b0036066e8cbfd0a1.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": null,
+        "width": null
+    }
+}

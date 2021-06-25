@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "歴城図",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "歴城図"
+        },
+        {
+            "label": "Identifier",
+            "value": "jouzu01_rekijou"
+        }
+    ],
+    "related": {
+        "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu01_rekijou",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://app.toyobunko-lab.jp/api/items/919",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 3151,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3151,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2319
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/3abb482e46a34d1a6f4da5c628727df451c674cf.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 2319
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://app.toyobunko-lab.jp/files/medium/3abb482e46a34d1a6f4da5c628727df451c674cf.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": null,
+        "width": null
+    }
+}

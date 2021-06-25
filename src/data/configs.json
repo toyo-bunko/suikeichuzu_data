@@ -1,0 +1,18 @@
+[
+    {
+        "label" : "main",
+        "targets" : ["f772d9f6-2893-4b2c-8cd2-600f87b8583e", "277ed4d4-2074-4fa7-bda4-86d3df52202b"]
+    },
+    {
+        "label" : "saiiki",
+        "targets" : ["f75e3194-194f-443c-bfa4-6eb50568c5ef", "b06a0d3a-6f20-4ae5-a746-b3a711acf3ee"]
+    },
+    {
+        "label" : "etsunan",
+        "targets" : ["c47580cf-b088-4e44-81fb-116060544348", "464a4bc7-f5cd-4cd4-b79b-2d433ca0a981"]
+    },
+    {
+        "label" : "ukou",
+        "targets" : ["49946ae5-c6f8-4bbe-92d5-5a70c211b9ca"]
+    }
+]

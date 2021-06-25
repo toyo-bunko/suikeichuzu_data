@@ -1,0 +1,1380 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/top.json",
+    "@type": "sc:Collection",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "水経注図",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "全体図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "全体図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "f772d9f6-2893-4b2c-8cd2-600f87b8583e"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/f772d9f6-2893-4b2c-8cd2-600f87b8583e",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/907",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 38875,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/full/full/0/default.jpg",
+                                        "@type": "oa:Choice",
+                                        "default": {
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/full/full/0/default.jpg",
+                                            "@type": "dctypes:Image",
+                                            "format": "image/jpeg",
+                                            "height": 38875,
+                                            "service": {
+                                                "@context": "http://iiif.io/api/image/2/context.json",
+                                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif",
+                                                "profile": "http://iiif.io/api/image/2/level1.json"
+                                            },
+                                            "width": 43890
+                                        },
+                                        "format": "image/jpeg",
+                                        "height": 38875,
+                                        "item": [
+                                            {
+                                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_grid_l.tif/full/full/0/default.jpg",
+                                                "@type": "dctypes:Image",
+                                                "format": "image/jpeg",
+                                                "height": 38875,
+                                                "service": {
+                                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_grid_l.tif",
+                                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                                },
+                                                "width": 43890
+                                            }
+                                        ],
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 43890
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/482da355a1701825b8800e2b13410653e6421e91.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 43890
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/482da355a1701825b8800e2b13410653e6421e91.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "西域",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "西域"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "f75e3194-194f-443c-bfa4-6eb50568c5ef"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/f75e3194-194f-443c-bfa4-6eb50568c5ef",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/963",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 6220,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/f75e3194-194f-443c-bfa4-6eb50568c5ef/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_gousei_l.tif/full/full/0/default.jpg",
+                                        "@type": "oa:Choice",
+                                        "default": {
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_gousei_l.tif/full/full/0/default.jpg",
+                                            "@type": "dctypes:Image",
+                                            "format": "image/jpeg",
+                                            "height": 6220,
+                                            "service": {
+                                                "@context": "http://iiif.io/api/image/2/context.json",
+                                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_gousei_l.tif",
+                                                "profile": "http://iiif.io/api/image/2/level1.json"
+                                            },
+                                            "width": 9240
+                                        },
+                                        "format": "image/jpeg",
+                                        "height": 6220,
+                                        "item": [
+                                            {
+                                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif/full/full/0/default.jpg",
+                                                "@type": "dctypes:Image",
+                                                "format": "image/jpeg",
+                                                "height": 6220,
+                                                "service": {
+                                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif",
+                                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                                },
+                                                "width": 9240
+                                            }
+                                        ],
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_gousei_l.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 9240
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/5867472d7139c5aa638c3a93c5a0e2aacbacb26b.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 9240
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/5867472d7139c5aa638c3a93c5a0e2aacbacb26b.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "越南",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "越南"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "c47580cf-b088-4e44-81fb-116060544348"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/c47580cf-b088-4e44-81fb-116060544348",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/913",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 9150,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_gousei_l.tif/full/full/0/default.jpg",
+                                        "@type": "oa:Choice",
+                                        "default": {
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_gousei_l.tif/full/full/0/default.jpg",
+                                            "@type": "dctypes:Image",
+                                            "format": "image/jpeg",
+                                            "height": 9150,
+                                            "service": {
+                                                "@context": "http://iiif.io/api/image/2/context.json",
+                                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_gousei_l.tif",
+                                                "profile": "http://iiif.io/api/image/2/level1.json"
+                                            },
+                                            "width": 4620
+                                        },
+                                        "format": "image/jpeg",
+                                        "height": 9150,
+                                        "item": [
+                                            {
+                                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif/full/full/0/default.jpg",
+                                                "@type": "dctypes:Image",
+                                                "format": "image/jpeg",
+                                                "height": 9150,
+                                                "service": {
+                                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif",
+                                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                                },
+                                                "width": 4620
+                                            }
+                                        ],
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_gousei_l.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 4620
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/c5ec9b46c7255aa472121e3b89b37e449a2248bc.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 4620
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/c5ec9b46c7255aa472121e3b89b37e449a2248bc.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/ukou/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "禹貢山水澤地所在",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "禹貢山水澤地所在"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "49946ae5-c6f8-4bbe-92d5-5a70c211b9ca"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/917",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3050,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3050,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 4620
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/f28e80bbc97582075776ecc6f141aa141e9ddfca.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 4620
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/f28e80bbc97582075776ecc6f141aa141e9ddfca.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu01_rekijou/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "歴城図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "歴城図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu01_rekijou"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu01_rekijou",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/919",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3151,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3151,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 2319
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/3abb482e46a34d1a6f4da5c628727df451c674cf.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 2319
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/3abb482e46a34d1a6f4da5c628727df451c674cf.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu02_gyoujou/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "鄴城図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "鄴城図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu02_gyoujou"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu02_gyoujou",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/921",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu02_gyoujou/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu02_gyoujou/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3148,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu02_gyoujou/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu02_gyoujou/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu02_gyoujou.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3148,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu02_gyoujou.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 4592
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/625516be8d8c3d9662c2c0f0f675b8343fd7431c.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 4592
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/625516be8d8c3d9662c2c0f0f675b8343fd7431c.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu03_rakuyou/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "洛陽城図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "洛陽城図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu03_rakuyou"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu03_rakuyou",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/923",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3116,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu03_rakuyou/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3116,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu03_rakuyou.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 4580
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/114161d0b5e6a2d518a1d0653850ad4daa4de16e.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 4580
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/114161d0b5e6a2d518a1d0653850ad4daa4de16e.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu04_chouan/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "長安城図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "長安城図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu04_chouan"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu04_chouan",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/925",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu04_chouan/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu04_chouan/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3112,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu04_chouan/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu04_chouan/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu04_chouan.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3112,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu04_chouan.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 4560
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/75b2c5bf1009e9aafc1e02f8da337c7ed763bf13.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 4560
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/75b2c5bf1009e9aafc1e02f8da337c7ed763bf13.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu05_suiyou/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "睢陽城図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "睢陽城図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu05_suiyou"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu05_suiyou",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/927",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3105,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu05_suiyou.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3105,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu05_suiyou.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 2282
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/635b5b143ba99609f2b7d16d1795fada95e3cb47.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 2282
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/635b5b143ba99609f2b7d16d1795fada95e3cb47.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu06_heijou/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "平城図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "平城図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu06_heijou"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu06_heijou",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/929",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu06_heijou/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu06_heijou/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3088,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu06_heijou/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu06_heijou/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu06_heijou.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3088,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu06_heijou.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 2339
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/e2f5a9eee7912439e36d0a55ab67805a6ddd580e.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 2339
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/e2f5a9eee7912439e36d0a55ab67805a6ddd580e.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu07_keijou/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "薊城図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "薊城図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu07_keijou"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu07_keijou",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/931",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3094,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3094,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 2333
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/2196bb89f39c208cdd729d64e32621f67d0e6e32.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 2333
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/2196bb89f39c208cdd729d64e32621f67d0e6e32.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu08_rojou/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "魯城図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "魯城図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu08_rojou"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu08_rojou",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/933",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu08_rojou/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu08_rojou/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3088,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu08_rojou/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu08_rojou/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu08_rojou.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3088,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu08_rojou.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 2273
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/4b87a19ad7eb5a879e6140008fdfa6db6f31770b.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 2273
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/4b87a19ad7eb5a879e6140008fdfa6db6f31770b.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu09_rinshi/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "臨淄城図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "臨淄城図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu09_rinshi"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu09_rinshi",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/935",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3075,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu09_rinshi/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu09_rinshi.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3075,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu09_rinshi.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 2257
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/17fb8c03b92cd94f338cda6b0036066e8cbfd0a1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 2257
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/17fb8c03b92cd94f338cda6b0036066e8cbfd0a1.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu10_jouyou/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "襄陽城図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "襄陽城図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu10_jouyou"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu10_jouyou",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/937",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3103,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu10_jouyou/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu10_jouyou.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3103,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu10_jouyou.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 2315
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/a5a44c1290b503d0d96c1e8f4c38de770a49ec35.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 2315
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/a5a44c1290b503d0d96c1e8f4c38de770a49ec35.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu11_jushun/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "寿春城図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "寿春城図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu11_jushun"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu11_jushun",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/939",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu11_jushun/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu11_jushun/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3099,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu11_jushun/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu11_jushun/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu11_jushun.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3099,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu11_jushun.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 2308
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/ab27311b3413f85a2e8d5219415b404ecf27d912.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 2308
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/ab27311b3413f85a2e8d5219415b404ecf27d912.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu12_seito/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "成都橋図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "成都橋図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu12_seito"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu12_seito",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/941",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3106,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3106,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 2351
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/26aac6d15901f7a77dc918ce11b7c7af68297e8a.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 2351
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/26aac6d15901f7a77dc918ce11b7c7af68297e8a.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu13_sanin/manifest.json",
+            "@type": "sc:Manifest",
+            "attribution": "東洋文庫 / Toyo Bunko",
+            "label": "山陰城図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "山陰城図"
+                },
+                {
+                    "label": "Identifier",
+                    "value": "jouzu13_sanin"
+                }
+            ],
+            "related": {
+                "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu13_sanin",
+                "format": "text/html"
+            },
+            "seeAlso": {
+                "@id": "https://app.toyobunko-lab.jp/api/items/943",
+                "format": "application/ld+json"
+            },
+            "sequences": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/sequence/normal",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/canvas/p1",
+                            "@type": "sc:Canvas",
+                            "height": 3098,
+                            "images": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/annotation/p0001-image",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/canvas/p1",
+                                    "resource": {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu13_sanin.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 3098,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu13_sanin.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 2333
+                                    }
+                                }
+                            ],
+                            "label": "1",
+                            "thumbnail": {
+                                "@id": "https://app.toyobunko-lab.jp/files/medium/07413121cdabdccf143fc32b5c8d0da426f6d258.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": null,
+                                "width": null
+                            },
+                            "width": 2333
+                        }
+                    ],
+                    "label": "Current Page Order",
+                    "viewingDirection": "left-to-right"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/07413121cdabdccf143fc32b5c8d0da426f6d258.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        }
+    ],
+    "vhint": "use-thumb"
+}

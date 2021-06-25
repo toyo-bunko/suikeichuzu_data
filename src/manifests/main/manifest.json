@@ -1,0 +1,102 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "全体図",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "全体図"
+        },
+        {
+            "label": "Identifier",
+            "value": "f772d9f6-2893-4b2c-8cd2-600f87b8583e"
+        }
+    ],
+    "related": {
+        "@id": "https://app.toyobunko-lab.jp/s/main/document/f772d9f6-2893-4b2c-8cd2-600f87b8583e",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://app.toyobunko-lab.jp/api/items/907",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 38875,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/full/full/0/default.jpg",
+                                "@type": "oa:Choice",
+                                "default": {
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif/full/full/0/default.jpg",
+                                    "@type": "dctypes:Image",
+                                    "format": "image/jpeg",
+                                    "height": 38875,
+                                    "service": {
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    },
+                                    "width": 43890
+                                },
+                                "format": "image/jpeg",
+                                "height": 38875,
+                                "item": [
+                                    {
+                                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_grid_l.tif/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 38875,
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_grid_l.tif",
+                                            "profile": "http://iiif.io/api/image/2/level1.json"
+                                        },
+                                        "width": 43890
+                                    }
+                                ],
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 43890
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/482da355a1701825b8800e2b13410653e6421e91.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 43890
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://app.toyobunko-lab.jp/files/medium/482da355a1701825b8800e2b13410653e6421e91.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": null,
+        "width": null
+    }
+}

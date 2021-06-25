@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "山陰城図",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "山陰城図"
+        },
+        {
+            "label": "Identifier",
+            "value": "jouzu13_sanin"
+        }
+    ],
+    "related": {
+        "@id": "https://app.toyobunko-lab.jp/s/main/document/jouzu13_sanin",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://app.toyobunko-lab.jp/api/items/943",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 3098,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu13_sanin/canvas/p1",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu13_sanin.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3098,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu13_sanin.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 2333
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/07413121cdabdccf143fc32b5c8d0da426f6d258.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 2333
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://app.toyobunko-lab.jp/files/medium/07413121cdabdccf143fc32b5c8d0da426f6d258.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": null,
+        "width": null
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/ukou/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "禹貢山水澤地所在",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "禹貢山水澤地所在"
+        },
+        {
+            "label": "Identifier",
+            "value": "49946ae5-c6f8-4bbe-92d5-5a70c211b9ca"
+        }
+    ],
+    "related": {
+        "@id": "https://app.toyobunko-lab.jp/s/main/document/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://app.toyobunko-lab.jp/api/items/917",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 3050,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/49946ae5-c6f8-4bbe-92d5-5a70c211b9ca/canvas/p1",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3050,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Ukou.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4620
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/f28e80bbc97582075776ecc6f141aa141e9ddfca.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4620
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://app.toyobunko-lab.jp/files/medium/f28e80bbc97582075776ecc6f141aa141e9ddfca.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": null,
+        "width": null
+    }
+}
