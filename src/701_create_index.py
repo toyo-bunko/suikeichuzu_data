@@ -29,6 +29,8 @@ for file in files:
 
     print(file)
 
+    dirname = file.split("/")[-2]
+
     with open(file) as f:
         curation = json.load(f)    
 
@@ -61,7 +63,7 @@ for file in files:
             # "_url" : app_prefix + "/item/"+id,
             "member": member["@id"],
             "manifest" : manifest,
-            "curation" : prefix_data + "/curation/" + id  +".json"
+            "curation" : prefix_data + "/curation/" + dirname  +".json"
         }
 
         fulltext = obj["label"]
