@@ -44,7 +44,20 @@ settings = {
     },
     "etsunan" : {
         "hash" : "27fd1a30265116fbe0e6422974209f99",
-        "image" : "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/8_004_Etsunan_grid_l.tif"
+        "image" : "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif",
+        "reps" : [
+           {
+               "b": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+               "a": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json"
+           },
+           {
+               "b": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest.json/canvas/p1",
+               "a": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1"
+           },{
+               "b": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/Etsunan.tif",
+               "a": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif"
+           }
+        ]
     },
     "ukou" : {
         "hash" : "6b5ec55ca57758b4c39e1bb90c86d479",

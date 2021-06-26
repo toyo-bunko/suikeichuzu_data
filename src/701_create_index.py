@@ -11,6 +11,11 @@ from bs4 import BeautifulSoup
 import glob
 import pandas as pd
 import urllib.parse
+import copy
+
+import datetime
+now = datetime.datetime.now()
+updated = "{0:%Y-%m-%d}".format(now)
 
 prefix = "https://static.toyobunko-lab.jp/suikeichuzu"
 prefix_data = "https://static.toyobunko-lab.jp/suikeichuzu_data"
@@ -29,7 +34,13 @@ for file in files:
 
     manifest = curation["selections"][0]["within"]["@id"]
 
-    for member in curation["selections"][0]["members"]:
+    members = curation["selections"][0]["members"]
+    for i in range(len(members)):
+        member = members[i]
+
+        if i % 100 == 0:
+            print(i+1, len(members))
+    
         id = member["label"]
 
         id = id.replace("&nbsp;", "").replace("\n", "").strip()
@@ -50,6 +61,7 @@ for file in files:
             # "_url" : app_prefix + "/item/"+id,
             "member": member["@id"],
             "manifest" : manifest,
+            "curation" : prefix_data + "/curation/" + id  +".json"
         }
 
         fulltext = obj["label"]
@@ -66,6 +78,16 @@ for file in files:
 
         obj["fulltext"] = fulltext
 
+        obj["_updated"] = updated
+
+        # item = copy.deepcopy(obj)
+        # item["_updated"] = "{0:%Y-%m-%d}".format(now)
+
+        with open("/Users/nakamurasatoru/git/d_toyo/suikeichuzu/static/data/item/{}.json".format(id), 'w') as outfile:
+            json.dump(obj, outfile, ensure_ascii=False,
+                indent=4, sort_keys=True, separators=(',', ': '))
+
+        del obj["_updated"]
         actions.append(obj)
 
         # print(len(actions))

@@ -29,8 +29,10 @@ excel_data = {}
 def conv(data):
     if pd.isnull(data):
         return "null"
-    else:
+    elif isinstance(data, int):
         return data
+    else:
+        return data.strip()
 
 count = 0
 
@@ -39,7 +41,7 @@ for i in range(len(files)):
     
     # for file in files:
 
-    excel_path = "../../data/20210302/" + file
+    excel_path = "../data/20210302/" + file
 
     df = pd.read_excel(excel_path, sheet_name=0, header=None, index_col=None, engine='openpyxl')
 
