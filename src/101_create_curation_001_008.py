@@ -134,17 +134,28 @@ for key in settings:
         for e in member["metadata"]:
             map[e["label"]] = e["value"]
         
-        del member["metadata"]
+        # del member["metadata"]
 
         mark = str(map["記号"])
         legend = legends[mark]
-    
+
+        member["metadata"].append({
+              "value": "[ <a href=\"{}\">{}</a> ]<br/>地名/記述：{}<br/>分類：{}{}".format(prefix+"/item/"+ id, id, map["地名/記述"], legend["分類"], "<br/>記号説明：" + legend["記号説明"] if legend["記号説明"] != "" else ""),
+              "label": "Description"
+            })
+
+        '''
         member["metadata"] = [
             {
               "value": "[ <a href=\"{}\">{}</a> ]<br/>地名/記述：{}<br/>分類：{}{}".format(prefix+"/item/"+ id, id, map["地名/記述"], legend["分類"], "<br/>記号説明：" + legend["記号説明"] if legend["記号説明"] != "" else ""),
               "label": "Description"
             }
           ]
+        '''
+
+        ########
+
+        member["label"] = map["地名/記述"]
 
         ########
 
