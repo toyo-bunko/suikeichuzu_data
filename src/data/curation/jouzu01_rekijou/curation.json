@@ -8,12 +8,12 @@
     "label": "琉球国絵図プロジェクト",
     "selections": [
         {
-            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/range",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu01_rekijou/manifest.json/range",
             "@type": "sc:Range",
             "label": "jouzu01_rekijou",
             "members": [
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=608,172,176,105",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=608,172,176,105",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-01",
                     "metadata": [
@@ -66,10 +66,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/608,172,176,105/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/608,172,176,105/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=785,261,171,91",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=785,261,171,91",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-02",
                     "metadata": [
@@ -122,10 +122,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/785,261,171,91/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/785,261,171,91/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=880,477,173,105",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=880,477,173,105",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-03",
                     "metadata": [
@@ -178,10 +178,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/880,477,173,105/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/880,477,173,105/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=681,493,116,160",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=681,493,116,160",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-04",
                     "metadata": [
@@ -234,10 +234,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/681,493,116,160/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/681,493,116,160/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1646,812,80,153",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1646,812,80,153",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-05",
                     "metadata": [
@@ -290,10 +290,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1646,812,80,153/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1646,812,80,153/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1696,988,135,88",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1696,988,135,88",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-06",
                     "metadata": [
@@ -346,10 +346,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1696,988,135,88/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1696,988,135,88/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1277,945,168,111",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1277,945,168,111",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-07",
                     "metadata": [
@@ -402,10 +402,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1277,945,168,111/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1277,945,168,111/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=771,787,105,89",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=771,787,105,89",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-08",
                     "metadata": [
@@ -458,10 +458,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/771,787,105,89/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/771,787,105,89/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=624,950,187,92",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=624,950,187,92",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-09",
                     "metadata": [
@@ -514,10 +514,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/624,950,187,92/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/624,950,187,92/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1628,1322,97,176",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1628,1322,97,176",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-10",
                     "metadata": [
@@ -570,10 +570,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1628,1322,97,176/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1628,1322,97,176/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1500,1273,97,201",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1500,1273,97,201",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-11",
                     "metadata": [
@@ -626,10 +626,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1500,1273,97,201/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1500,1273,97,201/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1073,1627,195,122",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1073,1627,195,122",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-12",
                     "metadata": [
@@ -682,10 +682,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1073,1627,195,122/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1073,1627,195,122/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=553,1488,89,173",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=553,1488,89,173",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-13",
                     "metadata": [
@@ -738,10 +738,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/553,1488,89,173/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/553,1488,89,173/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=464,1322,84,152",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=464,1322,84,152",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-14",
                     "metadata": [
@@ -794,10 +794,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/464,1322,84,152/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/464,1322,84,152/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=276,1102,173,103",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=276,1102,173,103",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-15",
                     "metadata": [
@@ -850,10 +850,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/276,1102,173,103/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/276,1102,173,103/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=265,1208,201,97",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=265,1208,201,97",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-16",
                     "metadata": [
@@ -906,10 +906,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/265,1208,201,97/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/265,1208,201,97/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=276,1327,86,216",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=276,1327,86,216",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-17",
                     "metadata": [
@@ -962,10 +962,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/276,1327,86,216/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/276,1327,86,216/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1623,2387,97,168",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1623,2387,97,168",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-18",
                     "metadata": [
@@ -1018,10 +1018,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1623,2387,97,168/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1623,2387,97,168/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1536,2624,163,182",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1536,2624,163,182",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-19",
                     "metadata": [
@@ -1074,10 +1074,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1536,2624,163,182/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1536,2624,163,182/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1215,2510,160,103",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1215,2510,160,103",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-20",
                     "metadata": [
@@ -1130,10 +1130,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1215,2510,160,103/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1215,2510,160,103/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1245,2763,111,182",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1245,2763,111,182",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-21",
                     "metadata": [
@@ -1186,10 +1186,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1245,2763,111,182/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1245,2763,111,182/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=959,2643,157,100",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=959,2643,157,100",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-22",
                     "metadata": [
@@ -1242,10 +1242,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/959,2643,157,100/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/959,2643,157,100/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=383,2773,90,151",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=383,2773,90,151",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-23",
                     "metadata": [
@@ -1298,10 +1298,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/383,2773,90,151/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/383,2773,90,151/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=118,2923,179,165",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=118,2923,179,165",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-24",
                     "metadata": [
@@ -1354,10 +1354,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/118,2923,179,165/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/118,2923,179,165/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=1526,822,128,142",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1526,822,128,142",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-25",
                     "metadata": [
@@ -1410,10 +1410,10 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/1526,822,128,142/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/1526,822,128,142/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json/canvas/p1#xywh=260,2764,210,224",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=260,2764,210,224",
                     "@type": "sc:Canvas",
                     "label": "CTLI(a)0-26",
                     "metadata": [
@@ -1466,11 +1466,11 @@
                             "value": 0
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu01_rekijou.tif/260,2764,210,224/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu01_rekijou.tif/260,2764,210,224/200,/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu01_rekijou/manifest.json",
+                "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu01_rekijou/manifest.json",
                 "@type": "sc:Manifest",
                 "label": "jouzu01_rekijou"
             }

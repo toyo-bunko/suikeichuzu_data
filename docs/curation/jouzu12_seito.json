@@ -12,12 +12,12 @@
     },
     "selections": [
         {
-            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/range",
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu12_seito/manifest.json/range",
             "@type": "sc:Range",
             "label": "jouzu12_seito",
             "members": [
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1155,400,217,100",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1155,400,217,100",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-01",
                     "metadata": [
@@ -73,10 +73,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1155,400,217,100_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1155,400,217,100_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1155,400,217,100",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1155,400,217,100",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-01\">CTCD(a)0-01</a> ]<br/>地名/記述：昇僊橋<br/>分類：地点<br/>記号説明：橋・津",
@@ -90,10 +90,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1155,400,217,100/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1155,400,217,100/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1150,523,219,99",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1150,523,219,99",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-02",
                     "metadata": [
@@ -149,10 +149,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1150,523,219,99_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1150,523,219,99_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1150,523,219,99",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1150,523,219,99",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-02\">CTCD(a)0-02</a> ]<br/>地名/記述：送客觀<br/>分類：なし",
@@ -166,10 +166,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1150,523,219,99/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1150,523,219,99/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=441,451,178,134",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=441,451,178,134",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-03",
                     "metadata": [
@@ -225,10 +225,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=441,451,178,134_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=441,451,178,134_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=441,451,178,134",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=441,451,178,134",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-03\">CTCD(a)0-03</a> ]<br/>地名/記述：郫江<br/>分類：地形<br/>記号説明：河川",
@@ -242,10 +242,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/441,451,178,134/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/441,451,178,134/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=221,545,121,157",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=221,545,121,157",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-04",
                     "metadata": [
@@ -301,10 +301,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=221,545,121,157_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=221,545,121,157_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=221,545,121,157",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=221,545,121,157",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-04\">CTCD(a)0-04</a> ]<br/>地名/記述：檢江<br/>分類：地形<br/>記号説明：河川",
@@ -318,10 +318,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/221,545,121,157/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/221,545,121,157/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=15,61,140,66",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=15,61,140,66",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-05",
                     "metadata": [
@@ -377,10 +377,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=15,61,140,66_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=15,61,140,66_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=15,61,140,66",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=15,61,140,66",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-05\">CTCD(a)0-05</a> ]<br/>地名/記述：江水<br/>分類：地形<br/>記号説明：河川",
@@ -394,10 +394,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/15,61,140,66/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/15,61,140,66/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1171,613,193,83",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1171,613,193,83",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-06",
                     "metadata": [
@@ -453,10 +453,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1171,613,193,83_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1171,613,193,83_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1171,613,193,83",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1171,613,193,83",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-06\">CTCD(a)0-06</a> ]<br/>地名/記述：萬頃池<br/>分類：地形<br/>記号説明：湖",
@@ -470,10 +470,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1171,613,193,83/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1171,613,193,83/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1132,826,227,74",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1132,826,227,74",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-07",
                     "metadata": [
@@ -529,10 +529,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1132,826,227,74_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1132,826,227,74_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1132,826,227,74",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1132,826,227,74",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-07\">CTCD(a)0-07</a> ]<br/>地名/記述：龍隄池<br/>分類：地形<br/>記号説明：湖",
@@ -546,10 +546,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1132,826,227,74/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1132,826,227,74/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1678,1201,93,206",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1678,1201,93,206",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-08",
                     "metadata": [
@@ -605,10 +605,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1678,1201,93,206_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1678,1201,93,206_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1678,1201,93,206",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1678,1201,93,206",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-08\">CTCD(a)0-08</a> ]<br/>地名/記述：千秋池<br/>分類：地形<br/>記号説明：湖",
@@ -622,10 +622,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1678,1201,93,206/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1678,1201,93,206/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1305,1126,168,93",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1305,1126,168,93",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-09",
                     "metadata": [
@@ -681,10 +681,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1305,1126,168,93_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1305,1126,168,93_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1305,1126,168,93",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1305,1126,168,93",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-09\">CTCD(a)0-09</a> ]<br/>地名/記述：成都<br/>分類：なし",
@@ -698,10 +698,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1305,1126,168,93/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1305,1126,168,93/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1308,1237,165,93",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1308,1237,165,93",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-10",
                     "metadata": [
@@ -757,10 +757,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1308,1237,165,93_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1308,1237,165,93_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1308,1237,165,93",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1308,1237,165,93",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-10\">CTCD(a)0-10</a> ]<br/>地名/記述：大城<br/>分類：なし",
@@ -774,10 +774,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1308,1237,165,93/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1308,1237,165,93/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1313,1400,157,168",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1313,1400,157,168",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-11",
                     "metadata": [
@@ -833,10 +833,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1313,1400,157,168_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1313,1400,157,168_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1313,1400,157,168",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1313,1400,157,168",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-11\">CTCD(a)0-11</a> ]<br/>地名/記述：文翁講堂<br/>分類：地点<br/>記号説明：亭台跡",
@@ -850,10 +850,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1313,1400,157,168/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1313,1400,157,168/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1311,1612,157,90",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1311,1612,157,90",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-12",
                     "metadata": [
@@ -909,10 +909,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1311,1612,157,90_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1311,1612,157,90_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1311,1612,157,90",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1311,1612,157,90",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-12\">CTCD(a)0-12</a> ]<br/>地名/記述：南門<br/>分類：地点<br/>記号説明：長城門",
@@ -926,10 +926,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1311,1612,157,90/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1311,1612,157,90/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=948,1121,160,105",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=948,1121,160,105",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-13",
                     "metadata": [
@@ -985,10 +985,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=948,1121,160,105_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=948,1121,160,105_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=948,1121,160,105",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=948,1121,160,105",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-13\">CTCD(a)0-13</a> ]<br/>地名/記述：少城<br/>分類：なし",
@@ -1002,10 +1002,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/948,1121,160,105/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/948,1121,160,105/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=892,1281,144,100",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=892,1281,144,100",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-14",
                     "metadata": [
@@ -1061,10 +1061,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=892,1281,144,100_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=892,1281,144,100_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=892,1281,144,100",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=892,1281,144,100",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-14\">CTCD(a)0-14</a> ]<br/>地名/記述：西門<br/>分類：地点<br/>記号説明：長城門",
@@ -1078,10 +1078,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/892,1281,144,100/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/892,1281,144,100/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=886,1519,178,90",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=886,1519,178,90",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-15",
                     "metadata": [
@@ -1137,10 +1137,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=886,1519,178,90_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=886,1519,178,90_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=886,1519,178,90",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=886,1519,178,90",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-15\">CTCD(a)0-15</a> ]<br/>地名/記述：石牛門<br/>分類：地点<br/>記号説明：長城門",
@@ -1154,10 +1154,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/886,1519,178,90/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/886,1519,178,90/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=731,896,129,126",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=731,896,129,126",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-16",
                     "metadata": [
@@ -1213,10 +1213,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=731,896,129,126_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=731,896,129,126_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=731,896,129,126",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=731,896,129,126",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-16\">CTCD(a)0-16</a> ]<br/>地名/記述：天井池<br/>分類：地形<br/>記号説明：湖",
@@ -1230,10 +1230,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/731,896,129,126/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/731,896,129,126/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=747,1154,100,147",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=747,1154,100,147",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-17",
                     "metadata": [
@@ -1289,10 +1289,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=747,1154,100,147_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=747,1154,100,147_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=747,1154,100,147",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=747,1154,100,147",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-17\">CTCD(a)0-17</a> ]<br/>地名/記述：柳池<br/>分類：地形<br/>記号説明：湖",
@@ -1306,10 +1306,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/747,1154,100,147/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/747,1154,100,147/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=587,930,77,220",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=587,930,77,220",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-18",
                     "metadata": [
@@ -1365,10 +1365,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=587,930,77,220_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=587,930,77,220_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=587,930,77,220",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=587,930,77,220",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-18\">CTCD(a)0-18</a> ]<br/>地名/記述：長昇橋<br/>分類：地点<br/>記号説明：橋・津",
@@ -1382,10 +1382,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/587,930,77,220/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/587,930,77,220/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=626,1312,151,140",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=626,1312,151,140",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-19",
                     "metadata": [
@@ -1441,10 +1441,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=626,1312,151,140_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=626,1312,151,140_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=626,1312,151,140",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=626,1312,151,140",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-19\">CTCD(a)0-19</a> ]<br/>地名/記述：沖治橋<br/>分類：地点<br/>記号説明：橋・津",
@@ -1458,10 +1458,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/626,1312,151,140/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/626,1312,151,140/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1320,1735,179,84",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1320,1735,179,84",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-20",
                     "metadata": [
@@ -1517,10 +1517,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1320,1735,179,84_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1320,1735,179,84_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1320,1735,179,84",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1320,1735,179,84",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-20\">CTCD(a)0-20</a> ]<br/>地名/記述：江橋<br/>分類：地点<br/>記号説明：橋・津",
@@ -1534,10 +1534,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1320,1735,179,84/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1320,1735,179,84/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=667,1543,138,84",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=667,1543,138,84",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-21",
                     "metadata": [
@@ -1593,10 +1593,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=667,1543,138,84_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=667,1543,138,84_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=667,1543,138,84",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=667,1543,138,84",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-21\">CTCD(a)0-21</a> ]<br/>地名/記述：石犀<br/>分類：なし",
@@ -1610,10 +1610,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/667,1543,138,84/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/667,1543,138,84/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=647,1657,185,84",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=647,1657,185,84",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-22",
                     "metadata": [
@@ -1669,10 +1669,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=647,1657,185,84_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=647,1657,185,84_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=647,1657,185,84",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=647,1657,185,84",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-22\">CTCD(a)0-22</a> ]<br/>地名/記述：石犀里<br/>分類：なし",
@@ -1686,10 +1686,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/647,1657,185,84/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/647,1657,185,84/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=520,1497,144,146",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=520,1497,144,146",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-23",
                     "metadata": [
@@ -1745,10 +1745,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=520,1497,144,146_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=520,1497,144,146_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=520,1497,144,146",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=520,1497,144,146",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-23\">CTCD(a)0-23</a> ]<br/>地名/記述：石犀淵<br/>分類：地形<br/>記号説明：河川",
@@ -1762,10 +1762,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/520,1497,144,146/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/520,1497,144,146/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=395,1504,97,172",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=395,1504,97,172",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-24",
                     "metadata": [
@@ -1821,10 +1821,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=395,1504,97,172_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=395,1504,97,172_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=395,1504,97,172",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=395,1504,97,172",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-24\">CTCD(a)0-24</a> ]<br/>地名/記述：市橋<br/>分類：地点<br/>記号説明：橋・津",
@@ -1838,10 +1838,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/395,1504,97,172/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/395,1504,97,172/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=647,1765,185,105",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=647,1765,185,105",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-25",
                     "metadata": [
@@ -1897,10 +1897,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=647,1765,185,105_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=647,1765,185,105_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=647,1765,185,105",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=647,1765,185,105",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-25\">CTCD(a)0-25</a> ]<br/>地名/記述：石犀渠<br/>分類：地形<br/>記号説明：河川",
@@ -1914,10 +1914,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/647,1765,185,105/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/647,1765,185,105/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1652,1944,82,146",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1652,1944,82,146",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-26",
                     "metadata": [
@@ -1973,10 +1973,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1652,1944,82,146_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1652,1944,82,146_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1652,1944,82,146",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1652,1944,82,146",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-26\">CTCD(a)0-26</a> ]<br/>地名/記述：北江<br/>分類：地形<br/>記号説明：河川",
@@ -1990,10 +1990,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1652,1944,82,146/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1652,1944,82,146/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1551,2228,149,125",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1551,2228,149,125",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-27",
                     "metadata": [
@@ -2049,10 +2049,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1551,2228,149,125_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1551,2228,149,125_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1551,2228,149,125",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1551,2228,149,125",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-27\">CTCD(a)0-27</a> ]<br/>地名/記述：南江<br/>分類：地形<br/>記号説明：河川",
@@ -2066,10 +2066,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1551,2228,149,125/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1551,2228,149,125/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1281,1924,207,105",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1281,1924,207,105",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-28",
                     "metadata": [
@@ -2125,10 +2125,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1281,1924,207,105_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1281,1924,207,105_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1281,1924,207,105",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1281,1924,207,105",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-28\">CTCD(a)0-28</a> ]<br/>地名/記述：萬里橋<br/>分類：地点<br/>記号説明：橋・津",
@@ -2142,10 +2142,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1281,1924,207,105/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1281,1924,207,105/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1417,2148,153,86",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1417,2148,153,86",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-29",
                     "metadata": [
@@ -2201,10 +2201,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1417,2148,153,86_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1417,2148,153,86_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1417,2148,153,86",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1417,2148,153,86",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-29\">CTCD(a)0-29</a> ]<br/>地名/記述：笮橋<br/>分類：地点<br/>記号説明：橋・津",
@@ -2218,10 +2218,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1417,2148,153,86/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1417,2148,153,86/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1020,1894,224,108",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1020,1894,224,108",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-30",
                     "metadata": [
@@ -2277,10 +2277,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1020,1894,224,108_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1020,1894,224,108_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1020,1894,224,108",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1020,1894,224,108",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-30\">CTCD(a)0-30</a> ]<br/>地名/記述：夷里橋<br/>分類：地点<br/>記号説明：橋・津",
@@ -2294,10 +2294,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1020,1894,224,108/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1020,1894,224,108/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1232,2116,149,246",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1232,2116,149,246",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-31",
                     "metadata": [
@@ -2353,10 +2353,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1232,2116,149,246_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1232,2116,149,246_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1232,2116,149,246",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1232,2116,149,246",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-31\">CTCD(a)0-31</a> ]<br/>地名/記述：學堂後移此<br/>分類：地点<br/>記号説明：亭台跡",
@@ -2370,10 +2370,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1232,2116,149,246/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1232,2116,149,246/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1089,2088,105,84",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1089,2088,105,84",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-32",
                     "metadata": [
@@ -2433,10 +2433,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1089,2088,105,84_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1089,2088,105,84_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1089,2088,105,84",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1089,2088,105,84",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-32\">CTCD(a)0-32</a> ]<br/>地名/記述：道<br/>分類：なし",
@@ -2450,10 +2450,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1089,2088,105,84/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1089,2088,105,84/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=809,2071,211,82",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=809,2071,211,82",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-33",
                     "metadata": [
@@ -2509,10 +2509,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=809,2071,211,82_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=809,2071,211,82_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=809,2071,211,82",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=809,2071,211,82",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-33\">CTCD(a)0-33</a> ]<br/>地名/記述：錦官城<br/>分類：地点<br/>記号説明：亭台跡",
@@ -2526,10 +2526,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/809,2071,211,82/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/809,2071,211,82/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=854,2144,151,95",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=854,2144,151,95",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-34",
                     "metadata": [
@@ -2585,10 +2585,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=854,2144,151,95_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=854,2144,151,95_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=854,2144,151,95",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=854,2144,151,95",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-34\">CTCD(a)0-34</a> ]<br/>地名/記述：錦里<br/>分類：地点<br/>記号説明：亭台跡",
@@ -2602,10 +2602,10 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/854,2144,151,95/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/854,2144,151,95/200,/0/default.jpg"
                 },
                 {
-                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1568,2739,233,86",
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1568,2739,233,86",
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-35",
                     "metadata": [
@@ -2661,10 +2661,10 @@
                             "label": "Annotation",
                             "value": [
                                 {
-                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1568,2739,233,86_anno",
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1568,2739,233,86_anno",
                                     "@type": "oa:Annotation",
                                     "motivation": "sc:painting",
-                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json/canvas/p1#xywh=1568,2739,233,86",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu12_seito/canvas/p1#xywh=1568,2739,233,86",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
                                         "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTCD(a)0-35\">CTCD(a)0-35</a> ]<br/>地名/記述：江水<br/>分類：地形<br/>記号説明：河川",
@@ -2678,11 +2678,11 @@
                             ]
                         }
                     ],
-                    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/suikei/jouzu12_seito.tif/1568,2739,233,86/200,/0/default.jpg"
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu12_seito.tif/1568,2739,233,86/200,/0/default.jpg"
                 }
             ],
             "within": {
-                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/jouzu12_seito/manifest.json",
+                "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu12_seito/manifest.json",
                 "@type": "sc:Manifest",
                 "label": "jouzu12_seito"
             }
