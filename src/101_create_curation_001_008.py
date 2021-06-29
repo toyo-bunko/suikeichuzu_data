@@ -45,7 +45,7 @@ for key in settings:
 
         curation_str = json.dumps(curation)
 
-        curation_str = curation_str.replace("https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json", prefix + "/iiif/main/manifest.json")
+        curation_str = curation_str.replace("https://nakamura196.github.io/suikeichuuzu/iiif/main/manifest.json", prefix_data + "/iiif/main/manifest.json")
         curation_str = curation_str.replace("https://nakamura196.github.io/suikeichuuzu/iiif/main/canvas/p1", "https://app.toyobunko-lab.jp/iiif/2/f772d9f6-2893-4b2c-8cd2-600f87b8583e/canvas/p1")
         curation_str = curation_str.replace("https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/Suikeichuuzu.tif", "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif")
 
@@ -152,7 +152,7 @@ for key in settings:
             "id" : id,
             "label" : map["地名/記述"],
             "category" : map["記号"],
-            "manifest" : prefix + "/iiif/main/manifest.json",
+            "manifest" : prefix_data + "/iiif/main/manifest.json",
             "member" : member["@id"]
         })
 

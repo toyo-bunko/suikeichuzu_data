@@ -236,7 +236,7 @@ for uuid in settings:
         for e in member["metadata"]:
             map[e["label"]] = e["value"]
         
-        del member["metadata"]
+        # del member["metadata"]
 
         mark = str(map["記号"])
         legend = legends[mark]
@@ -246,6 +246,31 @@ for uuid in settings:
             "value": "[ <a href=\"{}\">{}</a> ]<br/>地名/記述：{}<br/>分類：{}{}".format(prefix+"/item/"+ id, id, map["地名/記述"], legend["分類"], "<br/>記号説明：" + legend["記号説明"] if legend["記号説明"] != "" else ""),
             "label": "Description"
         }
+        '''
+
+        member["metadata"].append({
+            "value": [
+            {
+                "@id": member["@id"]+"_anno",
+                "on": member["@id"],
+                "@type": "oa:Annotation",
+                "resource": {
+                "chars": "[ <a href=\"{}\">{}</a> ]<br/>地名/記述：{}<br/>分類：{}{}".format(prefix+"/item/"+ id, id, map["地名/記述"], legend["分類"], "<br/>記号説明：" + legend["記号説明"] if legend["記号説明"] != "" else ""),
+                "format": "text/html",
+                "@type": "cnt:ContentAsText",
+                "marker": {
+                    "@type": "dctypes:Image",
+                    "@id": prefix_data + "/assets/marker/{}.png#xy=11,27".format(mark), # "https://nakamura196.github.io/suikeichuuzu/asset/marker/{}.png#xy=11,27".format(mark)
+                }
+                },
+                "motivation": "sc:painting"
+            }
+            ],
+            "label": "Annotation"
+        })
+
+
+        
         '''
         member["metadata"] = [
 
@@ -270,6 +295,7 @@ for uuid in settings:
               "label": "Annotation"
             }
           ]
+        '''
 
         ########
 

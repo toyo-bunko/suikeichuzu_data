@@ -22,6 +22,54 @@
                     "label": "CTCD(a)0-01",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00678"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "昇僊橋"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 29
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "橋・津"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -49,6 +97,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-02",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00679"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "送客觀"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -78,6 +174,54 @@
                     "label": "CTCD(a)0-03",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00680"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "郫江"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -105,6 +249,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-04",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00681"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "檢江"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -134,6 +326,54 @@
                     "label": "CTCD(a)0-05",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00682"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "江水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -161,6 +401,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-06",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00683"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "萬頃池"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "湖"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -190,6 +478,54 @@
                     "label": "CTCD(a)0-07",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00684"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "龍隄池"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "湖"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -217,6 +553,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-08",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00685"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "千秋池"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "湖"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -246,6 +630,54 @@
                     "label": "CTCD(a)0-09",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00686"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "成都"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -273,6 +705,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-10",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00687"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "大城"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -302,6 +782,54 @@
                     "label": "CTCD(a)0-11",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00688"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "文翁講堂"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "亭台跡"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -329,6 +857,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-12",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00689"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "南門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "長城門"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -358,6 +934,54 @@
                     "label": "CTCD(a)0-13",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00690"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "少城"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -385,6 +1009,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-14",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00691"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "西門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "長城門"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -414,6 +1086,54 @@
                     "label": "CTCD(a)0-15",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00692"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "石牛門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "長城門"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -441,6 +1161,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-16",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00693"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "天井池"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "湖"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -470,6 +1238,54 @@
                     "label": "CTCD(a)0-17",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00694"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "柳池"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "湖"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -497,6 +1313,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-18",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00695"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "長昇橋"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 29
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "橋・津"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -526,6 +1390,54 @@
                     "label": "CTCD(a)0-19",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00696"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "沖治橋"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 29
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "橋・津"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -553,6 +1465,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-20",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00697"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "江橋"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 29
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "橋・津"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -582,6 +1542,54 @@
                     "label": "CTCD(a)0-21",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00698"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "石犀"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -609,6 +1617,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-22",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00699"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "石犀里"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -638,6 +1694,54 @@
                     "label": "CTCD(a)0-23",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00700"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "石犀淵"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -665,6 +1769,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-24",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00701"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "市橋"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 29
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "橋・津"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -694,6 +1846,54 @@
                     "label": "CTCD(a)0-25",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00702"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "石犀渠"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -721,6 +1921,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-26",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00703"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "北江"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -750,6 +1998,54 @@
                     "label": "CTCD(a)0-27",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00704"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "南江"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -777,6 +2073,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-28",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00705"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "萬里橋"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 29
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "橋・津"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -806,6 +2150,54 @@
                     "label": "CTCD(a)0-29",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00706"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "笮橋"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 29
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "橋・津"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -833,6 +2225,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-30",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00707"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "夷里橋"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 29
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "橋・津"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -862,6 +2302,54 @@
                     "label": "CTCD(a)0-31",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00708"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "學堂後移此"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "亭台跡"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -889,6 +2377,58 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-32",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00709"
+                        },
+                        {
+                            "label": "備考",
+                            "value": "「……」で表記される。"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "道"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
@@ -918,6 +2458,54 @@
                     "label": "CTCD(a)0-33",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00710"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "錦官城"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "亭台跡"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -946,6 +2534,54 @@
                     "label": "CTCD(a)0-34",
                     "metadata": [
                         {
+                            "label": "sort",
+                            "value": "04-00711"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "錦里"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "亭台跡"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
                             "label": "Annotation",
                             "value": [
                                 {
@@ -973,6 +2609,54 @@
                     "@type": "sc:Canvas",
                     "label": "CTCD(a)0-35",
                     "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00712"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "成都橋図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "江水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
                         {
                             "label": "Annotation",
                             "value": [
