@@ -1,0 +1,48 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context/manifest.json",
+  "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/sjzt.json",
+  "@type": "sc:Collection",
+  "label": "水経注図・冊子一覧",
+  "manifests": [
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json",
+      "label": "第1冊"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_2/manifest.json",
+      "label": "第2冊"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_3/manifest.json",
+      "label": "第3冊"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_4/manifest.json",
+      "label": "第4冊"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_5/manifest.json",
+      "label": "第5冊"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_6/manifest.json",
+      "label": "第6冊"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_7/manifest.json",
+      "label": "第7冊"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json",
+      "label": "第8冊"
+    }
+  ]
+}

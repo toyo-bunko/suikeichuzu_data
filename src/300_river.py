@@ -13,22 +13,36 @@ import pandas as pd
 import urllib.parse
 import copy
 
-import datetime
-now = datetime.datetime.now()
-updated = "{0:%Y-%m-%d}".format(now)
+with open("/Users/nakamurasatoru/git/d_toyo/suikeichuzu/static/data/index.json") as f:
+    df = json.load(f)
 
-prefix = "https://static.toyobunko-lab.jp/suikeichuzu"
-prefix_data = "https://static.toyobunko-lab.jp/suikeichuzu_data"
-docs = "../docs"
+river = {}
 
-files = glob.glob('data/curation/*/curation.json')
+for obj in df:
+    print(obj)
 
-actions = []
+    id = obj["objectID"]
 
-with open("data/itaiji.json") as f:
-    dd = json.load(f)
+    if "城" in obj["図"][0]:
+        key = obj["図"][0]
+    else:
 
+        区画南北 = str(obj["区画南北"][0])
+        区画東西 = str(obj["区画東西"][0])
 
+        key = 区画南北 + 区画東西
+
+    if "西域" in obj["図"][0]:
+        key = "西域" + key
+
+    if key not in river:
+        river[key] = []
+
+    river[key].append(id)
+
+    # break
+
+'''
 def itaiji(data):
     for key in dd:
         for v in dd[key]:
@@ -77,7 +91,7 @@ for file in files:
             "curation" : prefix_data + "/curation/" + dirname  +".json"
         }
 
-        fulltext = id # obj["label"] + ", " + id
+        fulltext = obj["label"] + ", " + id
 
         # if "thumbnail" in member:
         obj["thumbnail"] = member["thumbnail"]
@@ -85,9 +99,7 @@ for file in files:
         for key in map:
             obj[key] = [map[key]]
             try:
-                if key in ["地名/記述", "備考"]:
-                    fulltext += ", " + ", ".join(obj[key])
-                # fulltext += ", " + ", ".join(obj[key])
+                fulltext += ", " + ", ".join(obj[key])
             except Exception as e:
                 pass
 
@@ -108,8 +120,11 @@ for file in files:
         actions.append(obj)
 
         # print(len(actions))
+'''
 
+for key in river:
+    print(key)
 
-with open("/Users/nakamurasatoru/git/d_toyo/suikeichuzu/static/data/index.json", 'w') as outfile:
-    json.dump(actions, outfile, ensure_ascii=False,
+with open("data/river.json", 'w') as outfile:
+    json.dump(river, outfile, ensure_ascii=False,
                 indent=4, sort_keys=True, separators=(',', ': '))
