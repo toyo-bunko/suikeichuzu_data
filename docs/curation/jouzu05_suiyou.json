@@ -79,7 +79,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1912,145,289,217",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-01\">CTSU(a)0-01</a> ]<br/>地名/記述：汳水餘波舊入睢陽城中<br/>分類：地形<br/>記号説明：故瀆",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-01\">CTSU(a)0-01</a> ]<br/>地名/記述：汳水餘波舊入睢陽城中<br/>分類：地形<br/>記号説明：故瀆<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/2.png#xy=11,27",
@@ -169,7 +169,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1411,332,85,139",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-02\">CTSU(a)0-02</a> ]<br/>地名/記述：石虎<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-02\">CTSU(a)0-02</a> ]<br/>地名/記述：石虎<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -259,7 +259,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1341,332,85,144",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-03\">CTSU(a)0-03</a> ]<br/>地名/記述：石柱<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-03\">CTSU(a)0-03</a> ]<br/>地名/記述：石柱<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -349,7 +349,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1131,218,183,72",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-04\">CTSU(a)0-04</a> ]<br/>地名/記述：二石虎<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-04\">CTSU(a)0-04</a> ]<br/>地名/記述：二石虎<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -439,7 +439,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1148,284,165,57",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-05\">CTSU(a)0-05</a> ]<br/>地名/記述：二石羊<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-05\">CTSU(a)0-05</a> ]<br/>地名/記述：二石羊<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -529,7 +529,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1028,187,86,75",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-06\">CTSU(a)0-06</a> ]<br/>地名/記述：廟<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-06\">CTSU(a)0-06</a> ]<br/>地名/記述：廟<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -619,7 +619,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=995,307,117,74",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-07\">CTSU(a)0-07</a> ]<br/>地名/記述：二柱<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-07\">CTSU(a)0-07</a> ]<br/>地名/記述：二柱<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -709,7 +709,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=730,199,192,90",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-08\">CTSU(a)0-08</a> ]<br/>地名/記述：橋玄墓<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-08\">CTSU(a)0-08</a> ]<br/>地名/記述：橋玄墓<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -799,7 +799,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=874,313,95,77",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-09\">CTSU(a)0-09</a> ]<br/>地名/記述：碑<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-09\">CTSU(a)0-09</a> ]<br/>地名/記述：碑<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -889,7 +889,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1066,391,192,80",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-10\">CTSU(a)0-10</a> ]<br/>地名/記述：二石駝<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-10\">CTSU(a)0-10</a> ]<br/>地名/記述：二石駝<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -979,7 +979,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=865,408,181,67",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-11\">CTSU(a)0-11</a> ]<br/>地名/記述：二石馬<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-11\">CTSU(a)0-11</a> ]<br/>地名/記述：二石馬<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -1069,7 +1069,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=2038,938,192,258",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-12\">CTSU(a)0-12</a> ]<br/>地名/記述：梁孝王築東苑方三百里<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-12\">CTSU(a)0-12</a> ]<br/>地名/記述：梁孝王築東苑方三百里<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -1159,7 +1159,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=2109,1201,142,103",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-13\">CTSU(a)0-13</a> ]<br/>地名/記述：東苑<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-13\">CTSU(a)0-13</a> ]<br/>地名/記述：東苑<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -1249,7 +1249,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1964,1195,73,170",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-14\">CTSU(a)0-14</a> ]<br/>地名/記述：平臺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-14\">CTSU(a)0-14</a> ]<br/>地名/記述：平臺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -1339,7 +1339,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1848,1208,80,161",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-15\">CTSU(a)0-15</a> ]<br/>地名/記述：兔園<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-15\">CTSU(a)0-15</a> ]<br/>地名/記述：兔園<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -1433,7 +1433,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1622,1249,144,95",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-16\">CTSU(a)0-16</a> ]<br/>地名/記述：複道<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-16\">CTSU(a)0-16</a> ]<br/>地名/記述：複道<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -1523,7 +1523,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1633,1630,97,202",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-17\">CTSU(a)0-17</a> ]<br/>地名/記述：橋仁祠<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-17\">CTSU(a)0-17</a> ]<br/>地名/記述：橋仁祠<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -1613,7 +1613,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1352,805,82,64",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-18\">CTSU(a)0-18</a> ]<br/>地名/記述：池<br/>分類：地形<br/>記号説明：湖",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-18\">CTSU(a)0-18</a> ]<br/>地名/記述：池<br/>分類：地形<br/>記号説明：湖<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/5.png#xy=11,27",
@@ -1703,7 +1703,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1273,801,73,93",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-19\">CTSU(a)0-19</a> ]<br/>地名/記述：臺<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-19\">CTSU(a)0-19</a> ]<br/>地名/記述：臺<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -1793,7 +1793,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1441,1176,140,168",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-20\">CTSU(a)0-20</a> ]<br/>地名/記述：清冷臺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-20\">CTSU(a)0-20</a> ]<br/>地名/記述：清冷臺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -1883,7 +1883,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1309,1089,110,144",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-21\">CTSU(a)0-21</a> ]<br/>地名/記述：釣臺<br/>分類：地形<br/>記号説明：湖",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-21\">CTSU(a)0-21</a> ]<br/>地名/記述：釣臺<br/>分類：地形<br/>記号説明：湖<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/5.png#xy=11,27",
@@ -1973,7 +1973,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1301,1300,144,151",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-22\">CTSU(a)0-22</a> ]<br/>地名/記述：安梁舊池<br/>分類：地形<br/>記号説明：湖",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-22\">CTSU(a)0-22</a> ]<br/>地名/記述：安梁舊池<br/>分類：地形<br/>記号説明：湖<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/5.png#xy=11,27",
@@ -2063,7 +2063,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1173,1126,77,146",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-23\">CTSU(a)0-23</a> ]<br/>地名/記述：故宮<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-23\">CTSU(a)0-23</a> ]<br/>地名/記述：故宮<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -2153,7 +2153,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1079,1063,90,205",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-24\">CTSU(a)0-24</a> ]<br/>地名/記述：追明寺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-24\">CTSU(a)0-24</a> ]<br/>地名/記述：追明寺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -2243,7 +2243,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1074,1264,125,162",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-25\">CTSU(a)0-25</a> ]<br/>地名/記述：梁王吹臺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-25\">CTSU(a)0-25</a> ]<br/>地名/記述：梁王吹臺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -2333,7 +2333,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=943,1022,116,202",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-26\">CTSU(a)0-26</a> ]<br/>地名/記述：晉梁王妃陵表<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-26\">CTSU(a)0-26</a> ]<br/>地名/記述：晉梁王妃陵表<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -2423,7 +2423,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=954,1262,77,80",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-27\">CTSU(a)0-27</a> ]<br/>地名/記述：碑<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-27\">CTSU(a)0-27</a> ]<br/>地名/記述：碑<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -2513,7 +2513,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=943,1333,121,80",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-28\">CTSU(a)0-28</a> ]<br/>地名/記述：東道<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-28\">CTSU(a)0-28</a> ]<br/>地名/記述：東道<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -2603,7 +2603,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=796,1025,131,198",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-29\">CTSU(a)0-29</a> ]<br/>地名/記述：晉梁王妃陵表<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-29\">CTSU(a)0-29</a> ]<br/>地名/記述：晉梁王妃陵表<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -2693,7 +2693,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=805,1268,93,73",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-30\">CTSU(a)0-30</a> ]<br/>地名/記述：碑<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-30\">CTSU(a)0-30</a> ]<br/>地名/記述：碑<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -2783,7 +2783,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=770,1329,149,84",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-31\">CTSU(a)0-31</a> ]<br/>地名/記述：西道<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-31\">CTSU(a)0-31</a> ]<br/>地名/記述：西道<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -2873,7 +2873,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=607,1232,84,133",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-32\">CTSU(a)0-32</a> ]<br/>地名/記述：釣臺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-32\">CTSU(a)0-32</a> ]<br/>地名/記述：釣臺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -2963,7 +2963,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=525,1229,84,133",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-33\">CTSU(a)0-33</a> ]<br/>地名/記述：釣臺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-33\">CTSU(a)0-33</a> ]<br/>地名/記述：釣臺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -3053,7 +3053,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=350,1367,187,101",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-34\">CTSU(a)0-34</a> ]<br/>地名/記述：涼馬臺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-34\">CTSU(a)0-34</a> ]<br/>地名/記述：涼馬臺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -3143,7 +3143,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=542,1432,138,73",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-35\">CTSU(a)0-35</a> ]<br/>地名/記述：曲池<br/>分類：地形<br/>記号説明：湖",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-35\">CTSU(a)0-35</a> ]<br/>地名/記述：曲池<br/>分類：地形<br/>記号説明：湖<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/5.png#xy=11,27",
@@ -3233,7 +3233,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1471,1503,136,93",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-36\">CTSU(a)0-36</a> ]<br/>地名/記述：楊門<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-36\">CTSU(a)0-36</a> ]<br/>地名/記述：楊門<br/>分類：地点<br/>記号説明：長城門<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/34.png#xy=11,27",
@@ -3323,7 +3323,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1255,1667,125,90",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-37\">CTSU(a)0-37</a> ]<br/>地名/記述：雀臺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-37\">CTSU(a)0-37</a> ]<br/>地名/記述：雀臺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -3413,7 +3413,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=863,1729,142,88",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-38\">CTSU(a)0-38</a> ]<br/>地名/記述：蠡臺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-38\">CTSU(a)0-38</a> ]<br/>地名/記述：蠡臺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -3503,7 +3503,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=820,1805,246,84",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-39\">CTSU(a)0-39</a> ]<br/>地名/記述：亦曰升臺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-39\">CTSU(a)0-39</a> ]<br/>地名/記述：亦曰升臺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -3593,7 +3593,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=820,1887,250,93",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-40\">CTSU(a)0-40</a> ]<br/>地名/記述：即虎圏臺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-40\">CTSU(a)0-40</a> ]<br/>地名/記述：即虎圏臺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -3683,7 +3683,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=557,1669,192,93",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-41\">CTSU(a)0-41</a> ]<br/>地名/記述：女郎臺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-41\">CTSU(a)0-41</a> ]<br/>地名/記述：女郎臺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -3773,7 +3773,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=260,1514,129,77",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-42\">CTSU(a)0-42</a> ]<br/>地名/記述：西門<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-42\">CTSU(a)0-42</a> ]<br/>地名/記述：西門<br/>分類：地点<br/>記号説明：長城門<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/34.png#xy=11,27",
@@ -3863,7 +3863,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=42,1488,198,140",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-43\">CTSU(a)0-43</a> ]<br/>地名/記述：冦先鼓琴處<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-43\">CTSU(a)0-43</a> ]<br/>地名/記述：冦先鼓琴處<br/>分類：地点<br/>記号説明：長城門<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/34.png#xy=11,27",
@@ -3953,7 +3953,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=432,1859,218,250",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-44\">CTSU(a)0-44</a> ]<br/>地名/記述：梁孝王廣睢陽城七十里<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-44\">CTSU(a)0-44</a> ]<br/>地名/記述：梁孝王廣睢陽城七十里<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -4043,7 +4043,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1161,2083,207,77",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-45\">CTSU(a)0-45</a> ]<br/>地名/記述：盧門里<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-45\">CTSU(a)0-45</a> ]<br/>地名/記述：盧門里<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -4133,7 +4133,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1189,2219,144,84",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-46\">CTSU(a)0-46</a> ]<br/>地名/記述：盧門<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-46\">CTSU(a)0-46</a> ]<br/>地名/記述：盧門<br/>分類：地点<br/>記号説明：長城門<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/34.png#xy=11,27",
@@ -4223,7 +4223,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1176,2320,183,93",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-47\">CTSU(a)0-47</a> ]<br/>地名/記述：盧門亭<br/>分類：地点<br/>記号説明：長城門",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-47\">CTSU(a)0-47</a> ]<br/>地名/記述：盧門亭<br/>分類：地点<br/>記号説明：長城門<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/34.png#xy=11,27",
@@ -4313,7 +4313,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1975,2637,136,67",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-48\">CTSU(a)0-48</a> ]<br/>地名/記述：竹圃<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-48\">CTSU(a)0-48</a> ]<br/>地名/記述：竹圃<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -4403,7 +4403,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1962,2700,172,131",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-49\">CTSU(a)0-49</a> ]<br/>地名/記述：即梁王竹園<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-49\">CTSU(a)0-49</a> ]<br/>地名/記述：即梁王竹園<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -4493,7 +4493,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1945,2875,157,125",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-50\">CTSU(a)0-50</a> ]<br/>地名/記述：睢水<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-50\">CTSU(a)0-50</a> ]<br/>地名/記述：睢水<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -4583,7 +4583,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=1378,2439,142,170",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-51\">CTSU(a)0-51</a> ]<br/>地名/記述：橋載墓碑<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-51\">CTSU(a)0-51</a> ]<br/>地名/記述：橋載墓碑<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -4673,7 +4673,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=859,2370,138,86",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-52\">CTSU(a)0-52</a> ]<br/>地名/記述：大池<br/>分類：地形<br/>記号説明：湖",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-52\">CTSU(a)0-52</a> ]<br/>地名/記述：大池<br/>分類：地形<br/>記号説明：湖<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/5.png#xy=11,27",
@@ -4763,7 +4763,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=842,2506,168,82",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-53\">CTSU(a)0-53</a> ]<br/>地名/記述：明水<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-53\">CTSU(a)0-53</a> ]<br/>地名/記述：明水<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -4853,7 +4853,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=859,2737,218,88",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-54\">CTSU(a)0-54</a> ]<br/>地名/記述：逢洪陂<br/>分類：地形<br/>記号説明：湖",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-54\">CTSU(a)0-54</a> ]<br/>地名/記述：逢洪陂<br/>分類：地形<br/>記号説明：湖<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/5.png#xy=11,27",
@@ -4943,7 +4943,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=96,2573,97,185",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-55\">CTSU(a)0-55</a> ]<br/>地名/記述：睢水<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-55\">CTSU(a)0-55</a> ]<br/>地名/記述：睢水<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -5033,7 +5033,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu05_suiyou/canvas/p1#xywh=792,3002,168,93",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-56\">CTSU(a)0-56</a> ]<br/>地名/記述：明溝<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTSU(a)0-56\">CTSU(a)0-56</a> ]<br/>地名/記述：明溝<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",

@@ -79,7 +79,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=608,172,176,105",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-01\">CTLI(a)0-01</a> ]<br/>地名/記述：濟水<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-01\">CTLI(a)0-01</a> ]<br/>地名/記述：濟水<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -155,7 +155,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=785,261,171,91",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-02\">CTLI(a)0-02</a> ]<br/>地名/記述：濼口<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-02\">CTLI(a)0-02</a> ]<br/>地名/記述：濼口<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -231,7 +231,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=880,477,173,105",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-03\">CTLI(a)0-03</a> ]<br/>地名/記述：聽水<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-03\">CTLI(a)0-03</a> ]<br/>地名/記述：聽水<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -307,7 +307,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=681,493,116,160",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-04\">CTLI(a)0-04</a> ]<br/>地名/記述：濼水<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-04\">CTLI(a)0-04</a> ]<br/>地名/記述：濼水<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -383,7 +383,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1646,812,80,153",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-05\">CTLI(a)0-05</a> ]<br/>地名/記述：右水<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-05\">CTLI(a)0-05</a> ]<br/>地名/記述：右水<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -459,7 +459,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1696,988,135,88",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-06\">CTLI(a)0-06</a> ]<br/>地名/記述：出郭<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-06\">CTLI(a)0-06</a> ]<br/>地名/記述：出郭<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -535,7 +535,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1277,945,168,111",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-07\">CTLI(a)0-07</a> ]<br/>地名/記述：左水<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-07\">CTLI(a)0-07</a> ]<br/>地名/記述：左水<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -611,7 +611,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=771,787,105,89",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-08\">CTLI(a)0-08</a> ]<br/>地名/記述：陂<br/>分類：地形<br/>記号説明：湖",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-08\">CTLI(a)0-08</a> ]<br/>地名/記述：陂<br/>分類：地形<br/>記号説明：湖<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/5.png#xy=11,27",
@@ -687,7 +687,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=624,950,187,92",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-09\">CTLI(a)0-09</a> ]<br/>地名/記述：濼水<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-09\">CTLI(a)0-09</a> ]<br/>地名/記述：濼水<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -763,7 +763,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1628,1322,97,176",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-10\">CTLI(a)0-10</a> ]<br/>地名/記述：流杯池<br/>分類：地形<br/>記号説明：湖",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-10\">CTLI(a)0-10</a> ]<br/>地名/記述：流杯池<br/>分類：地形<br/>記号説明：湖<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/5.png#xy=11,27",
@@ -839,7 +839,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1500,1273,97,201",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-11\">CTLI(a)0-11</a> ]<br/>地名/記述：東城<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-11\">CTLI(a)0-11</a> ]<br/>地名/記述：東城<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -915,7 +915,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1073,1627,195,122",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-12\">CTLI(a)0-12</a> ]<br/>地名/記述：歴城<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-12\">CTLI(a)0-12</a> ]<br/>地名/記述：歴城<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -991,7 +991,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=553,1488,89,173",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-13\">CTLI(a)0-13</a> ]<br/>地名/記述：西郭<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-13\">CTLI(a)0-13</a> ]<br/>地名/記述：西郭<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -1067,7 +1067,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=464,1322,84,152",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-14\">CTLI(a)0-14</a> ]<br/>地名/記述：入郭<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-14\">CTLI(a)0-14</a> ]<br/>地名/記述：入郭<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -1143,7 +1143,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=276,1102,173,103",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-15\">CTLI(a)0-15</a> ]<br/>地名/記述：客亭<br/>分類：なし",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-15\">CTLI(a)0-15</a> ]<br/>地名/記述：客亭<br/>分類：なし<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
@@ -1219,7 +1219,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=265,1208,201,97",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-16\">CTLI(a)0-16</a> ]<br/>地名/記述：大明湖<br/>分類：地形<br/>記号説明：湖",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-16\">CTLI(a)0-16</a> ]<br/>地名/記述：大明湖<br/>分類：地形<br/>記号説明：湖<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/5.png#xy=11,27",
@@ -1295,7 +1295,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=276,1327,86,216",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-17\">CTLI(a)0-17</a> ]<br/>地名/記述：大明寺<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-17\">CTLI(a)0-17</a> ]<br/>地名/記述：大明寺<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -1371,7 +1371,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1623,2387,97,168",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-18\">CTLI(a)0-18</a> ]<br/>地名/記述：歴水<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-18\">CTLI(a)0-18</a> ]<br/>地名/記述：歴水<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -1447,7 +1447,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1536,2624,163,182",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-19\">CTLI(a)0-19</a> ]<br/>地名/記述：歴祠下泉<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-19\">CTLI(a)0-19</a> ]<br/>地名/記述：歴祠下泉<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -1523,7 +1523,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1215,2510,160,103",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-20\">CTLI(a)0-20</a> ]<br/>地名/記述：舜祠<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-20\">CTLI(a)0-20</a> ]<br/>地名/記述：舜祠<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -1599,7 +1599,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1245,2763,111,182",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-21\">CTLI(a)0-21</a> ]<br/>地名/記述：舜井<br/>分類：地点<br/>記号説明：井戸",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-21\">CTLI(a)0-21</a> ]<br/>地名/記述：舜井<br/>分類：地点<br/>記号説明：井戸<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/30.png#xy=11,27",
@@ -1675,7 +1675,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=959,2643,157,100",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-22\">CTLI(a)0-22</a> ]<br/>地名/記述：歴山<br/>分類：地形<br/>記号説明：山谷",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-22\">CTLI(a)0-22</a> ]<br/>地名/記述：歴山<br/>分類：地形<br/>記号説明：山谷<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/4.png#xy=11,27",
@@ -1751,7 +1751,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=383,2773,90,151",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-23\">CTLI(a)0-23</a> ]<br/>地名/記述：濼水<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-23\">CTLI(a)0-23</a> ]<br/>地名/記述：濼水<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -1827,7 +1827,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=118,2923,179,165",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-24\">CTLI(a)0-24</a> ]<br/>地名/記述：娥英廟<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-24\">CTLI(a)0-24</a> ]<br/>地名/記述：娥英廟<br/>分類：地点<br/>記号説明：亭台跡<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
@@ -1903,7 +1903,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=1526,822,128,142",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-25\">CTLI(a)0-25</a> ]<br/>地名/記述：即枝津<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-25\">CTLI(a)0-25</a> ]<br/>地名/記述：即枝津<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
@@ -1979,7 +1979,7 @@
                                     "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu01_rekijou/canvas/p1#xywh=260,2764,210,224",
                                     "resource": {
                                         "@type": "cnt:ContentAsText",
-                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-26\">CTLI(a)0-26</a> ]<br/>地名/記述：一名娥姜水<br/>分類：地形<br/>記号説明：河川",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTLI(a)0-26\">CTLI(a)0-26</a> ]<br/>地名/記述：一名娥姜水<br/>分類：地形<br/>記号説明：河川<br/>墨朱：墨",
                                         "format": "text/html",
                                         "marker": {
                                             "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
