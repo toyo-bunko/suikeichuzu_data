@@ -85,9 +85,11 @@ for file in files:
         for key in map:
             obj[key] = [map[key]]
             try:
+                '''
                 if key in ["地名/記述", "備考"]:
                     fulltext += ", " + ", ".join(obj[key])
-                # fulltext += ", " + ", ".join(obj[key])
+                '''
+                fulltext += ", " + ", ".join(obj[key])
             except Exception as e:
                 pass
 

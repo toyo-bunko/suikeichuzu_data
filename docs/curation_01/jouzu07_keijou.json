@@ -1,0 +1,1788 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/curation/jouzu07_keijou.json",
+    "@type": "cr:Curation",
+    "label": "jouzu07_keijou",
+    "related": {
+        "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/legend.pdf",
+        "@type": "cr:MarkerLegend"
+    },
+    "selections": [
+        {
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu07_keijou/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "jouzu07_keijou",
+            "members": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=221,388,249,98",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-01",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00463"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "高梁水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=221,388,249,98_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=221,388,249,98",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-01\">CTJC(a)0-01</a> ]<br/>地名/記述：高梁水<br/>分類：地形<br/>記号説明：河川",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/221,388,249,98/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=61,369,113,154",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-02",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00464"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "平地"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "亭台跡"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=61,369,113,154_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=61,369,113,154",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-02\">CTJC(a)0-02</a> ]<br/>地名/記述：平地<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/61,369,113,154/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=524,555,191,120",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-03",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00465"
+                        },
+                        {
+                            "label": "備考",
+                            "value": "「……」で表記される。"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "伏道"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=524,555,191,120_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=524,555,191,120",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-03\">CTJC(a)0-03</a> ]<br/>地名/記述：伏道<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/524,555,191,120/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=221,545,160,101",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-04",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00466"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "大陵"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "亭台跡"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=221,545,160,101_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=221,545,160,101",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-04\">CTJC(a)0-04</a> ]<br/>地名/記述：大陵<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/221,545,160,101/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=209,620,202,90",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-05",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00467"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "燕王陵"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "亭台跡"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=209,620,202,90_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=209,620,202,90",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-05\">CTJC(a)0-05</a> ]<br/>地名/記述：燕王陵<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/209,620,202,90/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=649,796,96,127",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-06",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00468"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "平地"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=649,796,96,127_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=649,796,96,127",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-06\">CTJC(a)0-06</a> ]<br/>地名/記述：平地<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/649,796,96,127/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=550,749,96,204",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-07",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00469"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "薊水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=550,749,96,204_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=550,749,96,204",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-07\">CTJC(a)0-07</a> ]<br/>地名/記述：薊水<br/>分類：地形<br/>記号説明：河川",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/550,749,96,204/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=391,983,96,148",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-08",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00470"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "西湖"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "湖"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=391,983,96,148_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=391,983,96,148",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-08\">CTJC(a)0-08</a> ]<br/>地名/記述：西湖<br/>分類：地形<br/>記号説明：湖",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/5.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/391,983,96,148/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=363,1123,170,176",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-09",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00471"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "燕之舊池"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 5
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "湖"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=363,1123,170,176_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=363,1123,170,176",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-09\">CTJC(a)0-09</a> ]<br/>地名/記述：燕之舊池<br/>分類：地形<br/>記号説明：湖",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/5.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/363,1123,170,176/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=78,771,150,180",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-10",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00472"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "㶟水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=78,771,150,180_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=78,771,150,180",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-10\">CTJC(a)0-10</a> ]<br/>地名/記述：㶟水<br/>分類：地形<br/>記号説明：河川",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/78,771,150,180/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1613,1464,146,99",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-11",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00473"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "東門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "長城門"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1613,1464,146,99_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1613,1464,146,99",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-11\">CTJC(a)0-11</a> ]<br/>地名/記述：東門<br/>分類：地点<br/>記号説明：長城門",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/34.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/1613,1464,146,99/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1461,1327,144,212",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-12",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00474"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "曹魏劉靖碑"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "亭台跡"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1461,1327,144,212_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1461,1327,144,212",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-12\">CTJC(a)0-12</a> ]<br/>地名/記述：曹魏劉靖碑<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/1461,1327,144,212/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1482,1544,88,92",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-13",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00475"
+                        },
+                        {
+                            "label": "備考",
+                            "value": "「……」で表記される。"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "道"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1482,1544,88,92_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1482,1544,88,92",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-13\">CTJC(a)0-13</a> ]<br/>地名/記述：道<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/1482,1544,88,92/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1358,1413,105,449",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-14",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00476"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "慕容儁銅馬像"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1358,1413,105,449_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1358,1413,105,449",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-14\">CTJC(a)0-14</a> ]<br/>地名/記述：慕容儁銅馬像<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/1358,1413,105,449/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=746,1020,90,172",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-15",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00477"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "薊邱"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "亭台跡"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=746,1020,90,172_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=746,1020,90,172",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-15\">CTJC(a)0-15</a> ]<br/>地名/記述：薊邱<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/746,1020,90,172/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1263,1441,92,234",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-16",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00478"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "東掖門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "長城門"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1263,1441,92,234_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1263,1441,92,234",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-16\">CTJC(a)0-16</a> ]<br/>地名/記述：東掖門<br/>分類：地点<br/>記号説明：長城門",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/34.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/1263,1441,92,234/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1074,1436,148,243",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-17",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00479"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "萬載宮明光殿"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1074,1436,148,243_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1074,1436,148,243",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-17\">CTJC(a)0-17</a> ]<br/>地名/記述：萬載宮明光殿<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/1074,1436,148,243/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1074,1986,159,101",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-18",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00480"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "南門"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "長城門"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1074,1986,159,101_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1074,1986,159,101",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-18\">CTJC(a)0-18</a> ]<br/>地名/記述：南門<br/>分類：地点<br/>記号説明：長城門",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/34.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/1074,1986,159,101/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=999,2102,356,96",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-19",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00481"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "銚期奮戟處"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 34
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "長城門"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=999,2102,356,96_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=999,2102,356,96",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-19\">CTJC(a)0-19</a> ]<br/>地名/記述：銚期奮戟處<br/>分類：地点<br/>記号説明：長城門",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/34.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/999,2102,356,96/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1815,2102,178,94",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-20",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00482"
+                        },
+                        {
+                            "label": "備考",
+                            "value": "「……」で表記される。"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "なし"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "伏道"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 0
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": ""
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1815,2102,178,94_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1815,2102,178,94",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-20\">CTJC(a)0-20</a> ]<br/>地名/記述：伏道<br/>分類：なし",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/1815,2102,178,94/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=2047,2309,112,236",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-21",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00483"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地点"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "燕王陵"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 16
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "亭台跡"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=2047,2309,112,236_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=2047,2309,112,236",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-21\">CTJC(a)0-21</a> ]<br/>地名/記述：燕王陵<br/>分類：地点<br/>記号説明：亭台跡",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/16.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/2047,2309,112,236/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1182,2287,243,114",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-22",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00484"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "洗馬溝"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1182,2287,243,114_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=1182,2287,243,114",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-22\">CTJC(a)0-22</a> ]<br/>地名/記述：洗馬溝<br/>分類：地形<br/>記号説明：河川",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/1182,2287,243,114/200,/0/default.jpg"
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=2019,2931,182,120",
+                    "@type": "sc:Canvas",
+                    "label": "CTJC(a)0-23",
+                    "metadata": [
+                        {
+                            "label": "sort",
+                            "value": "04-00485"
+                        },
+                        {
+                            "label": "冊",
+                            "value": 8
+                        },
+                        {
+                            "label": "分類",
+                            "value": "地形"
+                        },
+                        {
+                            "label": "区画南北",
+                            "value": 0
+                        },
+                        {
+                            "label": "区画東西",
+                            "value": 0
+                        },
+                        {
+                            "label": "図",
+                            "value": "薊城図"
+                        },
+                        {
+                            "label": "地名/記述",
+                            "value": "㶟水"
+                        },
+                        {
+                            "label": "墨朱",
+                            "value": "墨"
+                        },
+                        {
+                            "label": "表裏",
+                            "value": "表"
+                        },
+                        {
+                            "label": "記号",
+                            "value": 1
+                        },
+                        {
+                            "label": "記号説明",
+                            "value": "河川"
+                        },
+                        {
+                            "label": "詳細区画",
+                            "value": 0
+                        },
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=2019,2931,182,120_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://app.toyobunko-lab.jp/iiif/2/jouzu07_keijou/canvas/p1#xywh=2019,2931,182,120",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu/item/CTJC(a)0-23\">CTJC(a)0-23</a> ]<br/>地名/記述：㶟水<br/>分類：地形<br/>記号説明：河川",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/1.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/jouzu07_keijou.tif/2019,2931,182,120/200,/0/default.jpg"
+                }
+            ],
+            "within": {
+                "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/jouzu07_keijou/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "jouzu07_keijou"
+            }
+        }
+    ],
+    "viewingHint": "annotation"
+}
