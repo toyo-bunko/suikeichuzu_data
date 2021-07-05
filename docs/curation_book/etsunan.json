@@ -1,0 +1,185 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/27fd1a30265116fbe0e6422974209f99/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/range",
+            "@type": "sc:Range",
+            "label": "Etsunan",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=326,7307,1690,699",
+                    "@type": "sc:Canvas",
+                    "label": "越南下裏",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=326,7307,1690,699_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=326,7307,1690,699",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p34\">越南下裏: 8冊 (34コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=363,4224,1654,736",
+                    "@type": "sc:Canvas",
+                    "label": "越南中裏",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=363,4224,1654,736_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=363,4224,1654,736",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p33\">越南中裏: 8冊 (33コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2638,7289,1617,736",
+                    "@type": "sc:Canvas",
+                    "label": "越南下表",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2638,7289,1617,736_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2638,7289,1617,736",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p33\">越南下表: 8冊 (33コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2657,1123,1635,846",
+                    "@type": "sc:Canvas",
+                    "label": "越南上表",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2657,1123,1635,846_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2657,1123,1635,846",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p31\">越南上表: 8冊 (31コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=363,1196,1635,754",
+                    "@type": "sc:Canvas",
+                    "label": "越南上裏",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=363,1196,1635,754_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=363,1196,1635,754",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p32\">越南上裏: 8冊 (32コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2657,4261,1654,699",
+                    "@type": "sc:Canvas",
+                    "label": "越南中表",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2657,4261,1654,699_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json/canvas/p1#xywh=2657,4261,1654,699",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p32\">越南中表: 8冊 (32コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Etsunan/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "Etsunan"
+            }
+        }
+    ]
+}

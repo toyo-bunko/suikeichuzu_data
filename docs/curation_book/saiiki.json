@@ -1,0 +1,239 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://nakamura196.github.io/omekac_diyhistory/iiif/curation/600226dc9723af51efb6d9c366b062c3/curation.json",
+    "@type": "cr:Curation",
+    "label": "琉球国絵図プロジェクト",
+    "selections": [
+        {
+            "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json/range",
+            "@type": "sc:Range",
+            "label": "Saiiki",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4821,1267,1944,627",
+                    "@type": "sc:Canvas",
+                    "label": "西域上1裏",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4821,1267,1944,627_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4821,1267,1944,627",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p21\">西域上1裏: 1冊 (21コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=2490,1267,1961,593",
+                    "@type": "sc:Canvas",
+                    "label": "西域上2表",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=2490,1267,1961,593_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=2490,1267,1961,593",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p21\">西域上2表: 1冊 (21コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=194,4324,1961,677",
+                    "@type": "sc:Canvas",
+                    "label": "西域下2裏",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=194,4324,1961,677_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=194,4324,1961,677",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p24\">西域下2裏: 1冊 (24コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=194,1234,1961,627",
+                    "@type": "sc:Canvas",
+                    "label": "西域上2裏",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=194,1234,1961,627_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=194,1234,1961,627",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p22\">西域上2裏: 1冊 (22コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7134,4307,1893,728",
+                    "@type": "sc:Canvas",
+                    "label": "西域下1表",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7134,4307,1893,728_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7134,4307,1893,728",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p22\">西域下1表: 1冊 (22コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4905,4290,1809,745",
+                    "@type": "sc:Canvas",
+                    "label": "西域下1裏",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4905,4290,1809,745_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=4905,4290,1809,745",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p23\">西域下1裏: 1冊 (23コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=2558,4374,1944,627",
+                    "@type": "sc:Canvas",
+                    "label": "西域下2表",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=2558,4374,1944,627_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=2558,4374,1944,627",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p23\">西域下2表: 1冊 (23コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7151,1251,1910,661",
+                    "@type": "sc:Canvas",
+                    "label": "西域上1表",
+                    "metadata": [
+                        {
+                            "label": "Annotation",
+                            "value": [
+                                {
+                                    "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7151,1251,1910,661_anno",
+                                    "@type": "oa:Annotation",
+                                    "motivation": "sc:painting",
+                                    "on": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/manifest.json/canvas/p1#xywh=7151,1251,1910,661",
+                                    "resource": {
+                                        "@type": "cnt:ContentAsText",
+                                        "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p20\">西域上1表: 1冊 (20コマ目)</a> ]",
+                                        "format": "text/html",
+                                        "marker": {
+                                            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/assets/marker/0.png#xy=11,27",
+                                            "@type": "dctypes:Image"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://nakamura196.github.io/suikeichuuzu/iiif/Saiiki/grid.json",
+                "@type": "sc:Manifest",
+                "label": "Saiiki"
+            }
+        }
+    ]
+}
