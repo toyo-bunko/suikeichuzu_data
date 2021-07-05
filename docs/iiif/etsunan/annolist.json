@@ -1,0 +1,85 @@
+{
+    "@context": "http://www.shared-canvas.org/ns/context.json",
+    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/annolist.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=326,7307,1690,699_annolist",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=326,7307,1690,699",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p34\">越南下裏: 8冊 (34コマ目)</a> ]",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=363,4224,1654,736_annolist",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=363,4224,1654,736",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p33\">越南中裏: 8冊 (33コマ目)</a> ]",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=2638,7289,1617,736_annolist",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=2638,7289,1617,736",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p33\">越南下表: 8冊 (33コマ目)</a> ]",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=2657,1123,1635,846_annolist",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=2657,1123,1635,846",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p31\">越南上表: 8冊 (31コマ目)</a> ]",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=363,1196,1635,754_annolist",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=363,1196,1635,754",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p32\">越南上裏: 8冊 (32コマ目)</a> ]",
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=2657,4261,1654,699_annolist",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://app.toyobunko-lab.jp/iiif/2/c47580cf-b088-4e44-81fb-116060544348/canvas/p1#xywh=2657,4261,1654,699",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p32\">越南中表: 8冊 (32コマ目)</a> ]",
+                    "format": "text/html"
+                }
+            ]
+        }
+    ]
+}
