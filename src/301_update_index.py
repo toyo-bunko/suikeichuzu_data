@@ -63,6 +63,8 @@ for item in index:
     item["水経注：巻"] = config["vol"]
     item["水名"] = config["river"]
 
+    item["fulltext"] += ", ".join(item["水名"]) + ", " + ", ".join(item["水経注：巻"])
+
 with open("/Users/nakamurasatoru/git/d_toyo/suikeichuzu/static/data/index_river.json", 'w') as outfile:
     json.dump(index, outfile, ensure_ascii=False,
                 indent=4, sort_keys=True, separators=(',', ': '))
