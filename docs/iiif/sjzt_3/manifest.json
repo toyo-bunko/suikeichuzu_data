@@ -2,9 +2,9 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json",
     "@type": "sc:Manifest",
-    "attribution": "æ±æ´æåº«",
+    "attribution": "東洋文庫 / Toyo Bunko",
     "label": "sjzt_3",
-    "license": "äºæ¬¡å©ç¨ä¸å¯",
+    "license": "二次利用不可",
     "related": "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json",
     "sequences": [
         {
@@ -22,17 +22,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p1",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0001.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0001.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0001.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0001.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0001.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -47,17 +54,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p2",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0002.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0002.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0002.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[2]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0002.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0002.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -72,17 +86,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p3",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0003.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0003.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0003.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[3]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0003.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0003.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -97,17 +118,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p4",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0004.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0004.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0004.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[4]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0004.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0004.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -122,17 +150,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p5",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0005.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0005.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0005.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[5]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0005.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0005.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -147,17 +182,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p6",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0006.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0006.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0006.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[6]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0006.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0006.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -172,17 +214,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p7",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0007.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0007.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0007.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[7]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0007.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0007.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -197,17 +246,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p8",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0008.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0008.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0008.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[8]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0008.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0008.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -222,17 +278,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p9",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0009.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0009.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0009.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[9]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0009.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0009.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -247,17 +310,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p10",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0010.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0010.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0010.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[10]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0010.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0010.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -272,17 +342,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p11",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0011.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0011.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0011.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[11]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0011.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0011.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -297,17 +374,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p12",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0012.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0012.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0012.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[12]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0012.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0012.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -322,17 +406,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p13",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0013.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0013.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0013.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[13]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0013.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0013.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -347,17 +438,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p14",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0014.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0014.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0014.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[14]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0014.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0014.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -372,17 +470,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p15",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0015.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0015.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0015.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[15]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0015.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0015.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -397,17 +502,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p16",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0016.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0016.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0016.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[16]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0016.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0016.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -422,17 +534,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p17",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0017.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0017.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0017.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[17]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0017.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0017.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -447,17 +566,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p18",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0018.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0018.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0018.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[18]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0018.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0018.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -472,17 +598,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p19",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0019.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0019.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0019.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[19]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0019.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0019.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -497,17 +630,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p20",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0020.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0020.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0020.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[20]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0020.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0020.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -522,17 +662,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p21",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0021.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0021.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0021.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[21]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0021.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0021.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -547,17 +694,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p22",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0022.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0022.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0022.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[22]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0022.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0022.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -572,17 +726,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p23",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0023.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0023.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0023.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[23]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0023.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0023.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -597,17 +758,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p24",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0024.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0024.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0024.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[24]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0024.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0024.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -622,17 +790,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p25",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0025.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0025.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0025.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[25]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0025.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0025.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -647,17 +822,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p26",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0026.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0026.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0026.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[26]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0026.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0026.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -672,17 +854,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p27",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0027.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0027.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0027.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[27]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0027.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0027.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -697,17 +886,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p28",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0028.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0028.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0028.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[28]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0028.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0028.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -722,17 +918,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p29",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0029.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0029.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0029.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[29]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0029.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0029.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -747,17 +950,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p30",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0030.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0030.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0030.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[30]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0030.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0030.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -772,17 +982,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p31",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0031.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0031.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0031.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[31]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0031.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0031.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -797,17 +1014,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p32",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0032.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0032.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0032.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[32]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0032.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0032.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -822,17 +1046,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p33",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0033.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0033.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0033.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[33]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0033.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0033.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -847,17 +1078,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p34",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0034.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0034.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0034.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[34]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0034.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0034.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -872,17 +1110,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p35",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0035.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0035.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0035.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[35]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0035.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0035.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -897,17 +1142,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p36",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0036.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0036.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0036.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[36]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0036.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0036.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -922,17 +1174,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p37",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0037.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0037.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0037.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[37]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0037.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0037.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 },
@@ -947,17 +1206,24 @@
                             "motivation": "sc:painting",
                             "on": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_3.json/canvas/p38",
                             "resource": {
-                                "@id": "http://www.toyo-bunko.or.jp/research/ss/3/3_0038.jpg",
+                                "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0038.tif/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 4912,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0038.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
                                 "width": 7360
                             }
                         }
                     ],
                     "label": "[38]",
                     "thumbnail": {
-                        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0038.jpg"
+                        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0038.tif/full/!200,200/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg"
                     },
                     "width": 7360
                 }
@@ -967,7 +1233,7 @@
         }
     ],
     "thumbnail": {
-        "@id": "http://www.toyo-bunko.or.jp/research/ss/3/s-3_0001.jpg"
+        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/s-3_0001.tif"
     },
     "viewingDirection": "right-to-left"
 }

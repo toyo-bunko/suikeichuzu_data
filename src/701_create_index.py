@@ -25,7 +25,7 @@ files = glob.glob('data/curation/*/curation.json')
 
 actions = []
 
-with open("data/itaiji.json") as f:
+with open("data/itaiji_tobun.json") as f:
     dd = json.load(f)
 
 
