@@ -11,7 +11,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p21\">西域上1裏: 1冊 (21コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p21\">西域上1裏: 1冊 (21コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]
@@ -24,7 +24,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p21\">西域上2表: 1冊 (21コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p21\">西域上2表: 1冊 (21コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]
@@ -37,7 +37,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p24\">西域下2裏: 1冊 (24コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p24\">西域下2裏: 1冊 (24コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]
@@ -50,7 +50,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p22\">西域上2裏: 1冊 (22コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p22\">西域上2裏: 1冊 (22コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]
@@ -63,7 +63,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p22\">西域下1表: 1冊 (22コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p22\">西域下1表: 1冊 (22コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]
@@ -76,7 +76,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p23\">西域下1裏: 1冊 (23コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p23\">西域下1裏: 1冊 (23コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]
@@ -89,7 +89,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p23\">西域下2表: 1冊 (23コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p23\">西域下2表: 1冊 (23コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]
@@ -102,7 +102,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p20\">西域上1表: 1冊 (20コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_1.json/canvas/p20\">西域上1表: 1冊 (20コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]

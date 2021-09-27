@@ -1,11 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json",
+    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東洋文庫 / Toyo Bunko",
-    "label": "sjzt_8",
+    "label": "水経注図・第8冊",
     "license": "二次利用不可",
-    "related": "http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json",
     "sequences": [
         {
             "@id": "http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/sequence/normal",
@@ -1457,7 +1456,7 @@
         }
     ],
     "thumbnail": {
-        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8/s-8_0001.tif"
+        "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8/8_0001.tif/full/!200,200/0/default.jpg"
     },
     "viewingDirection": "right-to-left"
 }

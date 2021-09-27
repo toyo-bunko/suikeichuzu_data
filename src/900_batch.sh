@@ -8,3 +8,6 @@ python 901_merge.py
 
 # manifestsフォルダ以下のIIIFマニフェストをdocsフォルダにコピーしつつ、IIIFコレクションを作成する
 python 902_create_collection.py
+
+# 冊子一覧のIIIFコレクションを作成します。
+python 910_db_books.py

@@ -1,0 +1,88 @@
+{
+    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/books.json",
+    "@type": "sc:Collection",
+    "collections": [
+        {
+            "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/collection/sjzt.json",
+            "@type": "sc:Collection",
+            "label": "冊子画像一覧",
+            "manifests": [
+                {
+                    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_1/manifest.json",
+                    "@type": "sc:Manifest",
+                    "label": "第1冊",
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1/1_0001.tif/full/!200,200/0/default.jpg"
+                },
+                {
+                    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_2/manifest.json",
+                    "@type": "sc:Manifest",
+                    "label": "第2冊",
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/2/2_0001.tif/full/!200,200/0/default.jpg"
+                },
+                {
+                    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_3/manifest.json",
+                    "@type": "sc:Manifest",
+                    "label": "第3冊",
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/3/3_0001.tif/full/!200,200/0/default.jpg"
+                },
+                {
+                    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_4/manifest.json",
+                    "@type": "sc:Manifest",
+                    "label": "第4冊",
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/4/4_0001.tif/full/!200,200/0/default.jpg"
+                },
+                {
+                    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_5/manifest.json",
+                    "@type": "sc:Manifest",
+                    "label": "第5冊",
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/5/5_0001.tif/full/!200,200/0/default.jpg"
+                },
+                {
+                    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_6/manifest.json",
+                    "@type": "sc:Manifest",
+                    "label": "第6冊",
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/6/6_0001.tif/full/!200,200/0/default.jpg"
+                },
+                {
+                    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_7/manifest.json",
+                    "@type": "sc:Manifest",
+                    "label": "第7冊",
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/7/7_0001.tif/full/!200,200/0/default.jpg"
+                },
+                {
+                    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json",
+                    "@type": "sc:Manifest",
+                    "label": "第8冊",
+                    "thumbnail": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8/8_0001.tif/full/!200,200/0/default.jpg"
+                }
+            ]
+        },
+        {
+            "@type": "sc:Collection",
+            "description": "ビューア左部の「Layers」タブを利用することにより、グリッド画像を重ねて表示できます。",
+            "label": "画像からみる",
+            "manifests": [
+                {
+                    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/main/manifest_anno.json",
+                    "@type": "sc:Manifest",
+                    "label": "全体図",
+                    "thumbnail": "https://app.toyobunko-lab.jp/files/medium/482da355a1701825b8800e2b13410653e6421e91.jpg"
+                },
+                {
+                    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/saiiki/manifest_anno.json",
+                    "@type": "sc:Manifest",
+                    "label": "西域",
+                    "thumbnail": "https://app.toyobunko-lab.jp/files/medium/5867472d7139c5aa638c3a93c5a0e2aacbacb26b.jpg"
+                },
+                {
+                    "@id": "https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/etsunan/manifest_anno.json",
+                    "@type": "sc:Manifest",
+                    "label": "越南",
+                    "thumbnail": "https://app.toyobunko-lab.jp/files/medium/c5ec9b46c7255aa472121e3b89b37e449a2248bc.jpg"
+                }
+            ]
+        }
+    ],
+    "label": "冊子画像",
+    "vhint": "use-thumb"
+}

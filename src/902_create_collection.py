@@ -41,6 +41,8 @@ for id in ids:
     with open("manifests/{}/manifest.json".format(id)) as f:
         df = json.load(f)
 
+        
+
         df["@id"] = prefix + "/iiif/" + id + "/manifest.json"
 
         path = df["@id"].replace(prefix, dir)
@@ -51,7 +53,15 @@ for id in ids:
             json.dump(df, f, ensure_ascii=False, indent=4,
             sort_keys=True, separators=(',', ': '))
         
-        manifests.append(df)
+        # manifests.append(df)
+
+        df2 = {
+            "@id" : df["@id"],
+            "label" : df["label"],
+            "@type" : "sc:Manifest",
+            "thumbnail" : df["thumbnail"]["@id"]
+        }
+        manifests.append(df2)
 
 collection = {
   "@context": "http://iiif.io/api/presentation/2/context.json",

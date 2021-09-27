@@ -11,7 +11,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p34\">越南下裏: 8冊 (34コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p34\">越南下裏: 8冊 (34コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]
@@ -24,7 +24,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p33\">越南中裏: 8冊 (33コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p33\">越南中裏: 8冊 (33コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]
@@ -37,7 +37,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p33\">越南下表: 8冊 (33コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p33\">越南下表: 8冊 (33コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]
@@ -50,7 +50,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p31\">越南上表: 8冊 (31コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p31\">越南上表: 8冊 (31コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]
@@ -63,7 +63,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p32\">越南上裏: 8冊 (32コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p32\">越南上裏: 8冊 (32コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]
@@ -76,7 +76,7 @@
             "resource": [
                 {
                     "@type": "dctypes:Text",
-                    "chars": "[ <a href=\"http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p32\">越南中表: 8冊 (32コマ目)</a> ]",
+                    "chars": "[ <a href=\"https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/?manifest=https://static.toyobunko-lab.jp/suikeichuzu_data/iiif/sjzt_8/manifest.json&canvas=http://www.toyo-bunko.or.jp/research/ss/iiif/item/sjzt_8.json/canvas/p32\">越南中表: 8冊 (32コマ目)</a> ]",
                     "format": "text/html"
                 }
             ]

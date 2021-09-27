@@ -12,3 +12,7 @@ python 500_book.py
 
 # 「水名」と「水経注：巻」を含むcurationを作成する
 python 600_update_curation.py
+
+# アノテーション付きのlayer画像を作成する。
+# 出力ファイル: docs/iiif/*/manifest_anno.json
+python 800_annotations.py

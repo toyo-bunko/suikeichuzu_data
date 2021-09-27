@@ -26,15 +26,13 @@ for id in ids:
     with open(path) as f:
         m_data = json.load(f)
 
-    print(m_data)
+    # print(m_data)
 
     path = "../docs/curation_book/" + id + ".json"
     with open(path) as f:
         curation = json.load(f)
 
-    print(curation)
-
-    
+    # print(curation)
 
     resources = []
 
@@ -55,7 +53,7 @@ for id in ids:
             "resource": [
                 {
                 "@type": "dctypes:Text",
-                "chars": member["metadata"][0]["value"][0]["resource"]["chars"],
+                "chars": member["metadata"][0]["value"][0]["resource"]["chars"].replace("http://www.toyo-bunko.or.jp/research/ss/iiif/mirador/", "https://static.toyobunko-lab.jp/suikeichuzu_data/mirador/"),
                 "format": "text/html"
                 }
             ],
