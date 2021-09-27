@@ -45,6 +45,7 @@
                                     "@type": "dctypes:Image",
                                     "format": "image/jpeg",
                                     "height": 38875,
+                                    "label": "Ordinary Map",
                                     "service": {
                                         "@context": "http://iiif.io/api/image/2/context.json",
                                         "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif",
@@ -60,6 +61,7 @@
                                         "@type": "dctypes:Image",
                                         "format": "image/jpeg",
                                         "height": 38875,
+                                        "label": "Grid Map",
                                         "service": {
                                             "@context": "http://iiif.io/api/image/2/context.json",
                                             "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_grid_l.tif",

@@ -52,6 +52,7 @@
                                             "@type": "dctypes:Image",
                                             "format": "image/jpeg",
                                             "height": 38875,
+                                            "label": "Ordinary Map",
                                             "service": {
                                                 "@context": "http://iiif.io/api/image/2/context.json",
                                                 "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_gousei_l.tif",
@@ -67,6 +68,7 @@
                                                 "@type": "dctypes:Image",
                                                 "format": "image/jpeg",
                                                 "height": 38875,
+                                                "label": "Grid Map",
                                                 "service": {
                                                     "@context": "http://iiif.io/api/image/2/context.json",
                                                     "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/Suikeichuuzu_grid_l.tif",
@@ -154,6 +156,7 @@
                                             "@type": "dctypes:Image",
                                             "format": "image/jpeg",
                                             "height": 6220,
+                                            "label": "Ordinary Map",
                                             "service": {
                                                 "@context": "http://iiif.io/api/image/2/context.json",
                                                 "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_gousei_l.tif",
@@ -169,6 +172,7 @@
                                                 "@type": "dctypes:Image",
                                                 "format": "image/jpeg",
                                                 "height": 6220,
+                                                "label": "Grid Map",
                                                 "service": {
                                                     "@context": "http://iiif.io/api/image/2/context.json",
                                                     "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/1_003_Saiiki_grid_l.tif",
@@ -256,6 +260,7 @@
                                             "@type": "dctypes:Image",
                                             "format": "image/jpeg",
                                             "height": 9150,
+                                            "label": "Ordinary Map",
                                             "service": {
                                                 "@context": "http://iiif.io/api/image/2/context.json",
                                                 "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_gousei_l.tif",
@@ -271,6 +276,7 @@
                                                 "@type": "dctypes:Image",
                                                 "format": "image/jpeg",
                                                 "height": 9150,
+                                                "label": "Grid Map",
                                                 "service": {
                                                     "@context": "http://iiif.io/api/image/2/context.json",
                                                     "@id": "https://img.toyobunko-lab.jp/iiif/premodern_chinese/suikeichuzu/8_004_Etsunan_grid_l.tif",

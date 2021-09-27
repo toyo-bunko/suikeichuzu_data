@@ -16,7 +16,11 @@ df = requests.get("https://app.toyobunko-lab.jp/iiif/2/collection/suikeichuzu").
 
 manifests = df["manifests"]
 
-for m in manifests:
+for i in range(len(manifests)):
+
+    print(i + 1, len(manifests))
+    m = manifests[i]
+
     uri = m["@id"]
     id = uri.split("/")[-2]
 

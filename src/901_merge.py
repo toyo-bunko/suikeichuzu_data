@@ -39,11 +39,13 @@ for conf in configs:
                     resource["@type"] = "oa:Choice"
 
                     resource["default"] = resource_org
-
+                    resource_org["label"] = "Ordinary Map"
                     resource["item"] = []
 
             else:
-                m["sequences"][0]["canvases"][0]["images"][0]["resource"]["item"].append(df["sequences"][0]["canvases"][0]["images"][0]["resource"])
+                item = df["sequences"][0]["canvases"][0]["images"][0]["resource"]
+                item["label"] = "Grid Map"
+                m["sequences"][0]["canvases"][0]["images"][0]["resource"]["item"].append(item)
 
 
     path = "manifests/{}/manifest.json".format(conf["label"])

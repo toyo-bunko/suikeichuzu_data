@@ -1,157 +1,162 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <link rel="stylesheet" type="text/css" href="mirador/css/mirador-combined.css">
-  <!--
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="mirador/css/mirador-combined.css"
+    />
+    <!--
   <link rel="stylesheet" type="text/css" href="mirador/plugins/MultiPageNavigation/multiPageNavigation.css">
   <link rel="stylesheet" type="text/css" href="mirador/plugins/CanvasLink/canvasLink.css">-->
-  <title>Mirador Viewer</title>
-  <style type="text/css">
-    #viewer {
-      width: 100%;
-      height: 100%;
-      position: fixed;
-    }
+    <title>Mirador Viewer</title>
+    <style type="text/css">
+      #viewer {
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
 
-    .mirador-osd-pointer-mode {
-      display : none !important;
-    }
-    .mirador-osd-edit-mode {
-       display : none !important;
-    }
-    .mirador-osd-color-picker{
-       display : none !important;
-    }
-    
-    .mirador-osd-color-picker{
-       display : none !important;
-    }
+      .mirador-osd-pointer-mode {
+        display: none !important;
+      }
+      .mirador-osd-edit-mode {
+        display: none !important;
+      }
+      .mirador-osd-color-picker {
+        display: none !important;
+      }
 
-    .mirador-line-type {
-      display : none !important;
-    }
-  </style>
-</head>
+      .mirador-osd-color-picker {
+        display: none !important;
+      }
 
-<body>
-  <div id="viewer"></div>
-  
-  <script src="mirador/mirador.min.js"></script>
-  <!--
+      .mirador-line-type {
+        display: none !important;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="viewer"></div>
+
+    <script src="mirador/mirador.min.js"></script>
+    <!--
   <script src="mirador/plugins/MultiPageNavigation/multiPageNavigation.js"></script>
   <script src="mirador/plugins/CanvasLink/canvasLink.js"></script>-->
-  <script src="mirador/plugins/mirador-jump-to-page/jump_to_page.js"></script>
-  <script type="text/javascript">
+    <script src="mirador/plugins/mirador-jump-to-page/jump_to_page.js"></script>
+    <script type="text/javascript">
+      var windowObjects = [];
 
-    var windowObjects = []
-
-    $(function () {
-
-      var vars = {};
-      var param = location.search.substring(1).split('&');
-      for (var i = 0; i < param.length; i++) {
-        var keySearch = param[i].search(/=/);
-        var key = '';
-        if (keySearch != -1) key = param[i].slice(0, keySearch);
-        var val = param[i].slice(param[i].indexOf('=', 0) + 1);
-        if (key != '') vars[key] = decodeURI(val);
-      }
-
-      
-      
-      
-
-      var data = new Array()
-
-      if (vars["manifest"]) {
-        var manifests = vars["manifest"];
-        var array = manifests.split(";");
-
-        for (var i = 0; i < array.length; i++) {
-          var manifest = array[i];
-          var obj = new Object();
-          obj["loadedManifest"] = manifest;
-          obj["bottomPanel"] = true;
-          obj["sidePanelVisible"] = true;
-          windowObjects.push(obj);
-
-          var obj = new Object();
-          obj["manifestUri"] = manifest;
-          data.push(obj);
-
+      $(function () {
+        var vars = {};
+        var param = location.search.substring(1).split("&");
+        for (var i = 0; i < param.length; i++) {
+          var keySearch = param[i].search(/=/);
+          var key = "";
+          if (keySearch != -1) key = param[i].slice(0, keySearch);
+          var val = param[i].slice(param[i].indexOf("=", 0) + 1);
+          if (key != "") vars[key] = decodeURI(val);
         }
 
-        layout = "1x" + array.length;
+        var data = new Array();
 
-      }
-      var windowSettings = new Object()
-      windowSettings["canvasControls"] = {
-        "annotations": {
-          "annotationState": "on",
-          "annotationCreation": true
-        }
-      }
+        if (vars["manifest"]) {
+          var manifests = vars["manifest"];
+          var array = manifests.split(";");
 
-      var sidePanelOptions = {
-        //"toc" : false,
-        "tocTabAvailable": true,
-        //"annotations" : true,
-        "layersTabAvailable": true,
-        //"tocTabAvailable": false,
-        
-        //"searchTabAvailable": true
-        //"annotationTabAvailable": true
-      }
-
-      let config = {
-        "id": "viewer",
-        "layout": layout,
-        "data": data,
-        buildPath: "mirador/",
-        "windowObjects": windowObjects,
-        "windowSettings": windowSettings,
-        "annotationEndpoint": { "name": "Local Storage", "module": "LocalStorageEndpoint" },
-        "sidePanelOptions": sidePanelOptions,
-        "mainMenuSettings": {
-          "userButtons": [
-            {
-              "label": "Fit Bounds",
-              "iconClass": "fa fa-square",
-              "attributes": { "onclick": "move()" }
+          for (var i = 0; i < array.length; i++) {
+            var manifest = array[i];
+            var obj = new Object();
+            obj["loadedManifest"] = manifest;
+            obj["bottomPanel"] = true;
+            obj["sidePanelVisible"] = true;
+            if (vars["canvas"]) {
+              obj["canvasID"] = vars["canvas"];
             }
-          ]
+            windowObjects.push(obj);
+
+            var obj = new Object();
+            obj["manifestUri"] = manifest;
+            data.push(obj);
+          }
+
+          layout = "1x" + array.length;
+        }
+        var windowSettings = new Object();
+        windowSettings["canvasControls"] = {
+          annotations: {
+            annotationState: "on",
+            annotationCreation: true,
+          },
+        };
+
+        var sidePanelOptions = {
+          //"toc" : false,
+          tocTabAvailable: true,
+          //"annotations" : true,
+          layersTabAvailable: true,
+          //"tocTabAvailable": false,
+
+          //"searchTabAvailable": true
+          //"annotationTabAvailable": true
+        };
+
+        let config = {
+          id: "viewer",
+          layout: layout,
+          data: data,
+          buildPath: "mirador/",
+          windowObjects: windowObjects,
+          windowSettings: windowSettings,
+          annotationEndpoint: {
+            name: "Local Storage",
+            module: "LocalStorageEndpoint",
+          },
+          sidePanelOptions: sidePanelOptions,
+          mainMenuSettings: {
+            userButtons: [
+              {
+                label: "Fit Bounds",
+                iconClass: "fa fa-square",
+                attributes: { onclick: "move()" },
+              },
+            ],
+          },
+        };
+
+        miradorInstance = Mirador(config);
+        setTimeout("move(true)", 1000);
+      });
+
+      function move(initFlag) {
+        for (i = 0; i < windowObjects.length; i++) {
+          obj = windowObjects[i];
+
+          zone_canvasID = obj["canvasID"];
+          xywh = obj["xywh"];
+          zone_x = Number(xywh[0]);
+          zone_y = Number(xywh[1]);
+          zone_w = Number(xywh[2]);
+          zone_z = Number(xywh[3]);
+
+          miradorInstance.eventEmitter.publish(
+            "SET_CURRENT_CANVAS_ID.window_" + i,
+            zone_canvasID
+          );
+
+          if (!initFlag) {
+            miradorInstance.eventEmitter.publish("fitBounds.window_" + i, {
+              x: zone_x,
+              y: zone_y,
+              width: zone_w,
+              height: zone_z,
+            });
+          }
         }
       }
-
-      miradorInstance = Mirador(config);
-      setTimeout("move(true)", 1000);
-    });
-
-    function move(initFlag) {
-
-      for (i = 0; i < windowObjects.length; i++) {
-        obj = windowObjects[i]
-
-        zone_canvasID = obj["canvasID"]
-        xywh = obj["xywh"]
-        zone_x = Number(xywh[0])
-        zone_y = Number(xywh[1])
-        zone_w = Number(xywh[2])
-        zone_z = Number(xywh[3])
-
-        miradorInstance.eventEmitter.publish('SET_CURRENT_CANVAS_ID.window_' + i, zone_canvasID);
-
-        if(!initFlag){
-          miradorInstance.eventEmitter.publish('fitBounds.window_' + i, { 'x': zone_x, 'y': zone_y, 'width': zone_w, 'height': zone_z });
-        }
-        
-      }
-    }
-
-  </script>
-</body>
-
+    </script>
+  </body>
 </html>
